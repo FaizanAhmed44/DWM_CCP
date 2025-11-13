@@ -1,0 +1,1346 @@
+patient_key,systolic_bp,diastolic_bp,cholesterol,heart_disease_diagnosed,age,gender,smoker,diabetic,family_history_heart_disease,bmi,age_group,hospitalName,risk_score,predicted_diagnosis,cluster,risk_level
+36,113,70,184,False,31,Female,True,True,True,28.5,Young,Aga Khan University Hospital,0.0,0,1,Medium Risk
+174,124,70,183,False,54,Male,False,True,False,26.1,Middle,Shaukat Khanum Memorial Hospital,0.0,0,1,Medium Risk
+218,112,70,186,False,45,Female,False,True,False,33.7,Middle,Punjab Institute of Cardiology,0.0,0,1,Medium Risk
+305,117,70,236,False,68,Male,False,False,True,34.2,Senior,Hearts International Hospital,0.0,0,1,Medium Risk
+452,133,70,188,False,28,Female,True,True,False,33.7,Young,Peshawar Heart Center,0.0,0,1,Medium Risk
+460,139,70,195,False,78,Female,True,True,False,31.5,Senior,Peshawar Heart Center,0.1,0,1,Medium Risk
+463,132,70,209,False,50,Female,True,False,True,19.4,Middle,Multan Cardiac Center,0.0,0,1,Medium Risk
+517,120,70,213,False,67,Female,True,False,True,35.0,Senior,Quetta Cardiac Hospital,0.0,0,1,Medium Risk
+31,133,71,185,False,54,Female,False,True,True,32.6,Middle,Karachi Cardiac Institute,0.0,0,1,Medium Risk
+274,110,71,198,False,60,Male,False,True,False,29.5,Middle,Shaukat Khanum Memorial Hospital,0.0,0,1,Medium Risk
+338,114,71,205,False,50,Male,False,False,True,29.4,Middle,Pakistan Institute of Medical Sciences,0.0,0,1,Medium Risk
+352,133,71,200,False,36,Female,True,True,False,33.8,Young,Rawalpindi Institute of Cardiology,0.1,0,1,Medium Risk
+361,124,71,187,False,62,Female,False,True,False,28.0,Senior,Rawalpindi Institute of Cardiology,0.0,0,1,Medium Risk
+366,128,71,232,False,33,Male,True,False,True,32.5,Young,Rawalpindi Institute of Cardiology,0.2,0,1,Medium Risk
+449,116,71,219,False,47,Male,False,True,False,18.9,Middle,Peshawar Heart Center,0.0,0,1,Medium Risk
+47,138,72,201,False,37,Male,False,False,True,23.8,Young,National Institute of Cardiovascular Diseases,0.1,0,1,Medium Risk
+85,113,72,184,False,61,Male,False,False,False,20.6,Senior,Karachi Cardiac Institute,0.0,0,1,Medium Risk
+89,124,72,188,False,44,Female,True,True,False,23.1,Middle,Karachi Cardiac Institute,0.0,0,1,Medium Risk
+95,137,72,208,False,79,Male,False,True,True,23.0,Senior,National Institute of Cardiovascular Diseases,0.2,0,1,Medium Risk
+153,123,72,190,False,68,Female,False,False,False,24.6,Senior,Shaukat Khanum Memorial Hospital,0.0,0,1,Medium Risk
+175,125,72,217,False,75,Male,False,True,False,22.1,Senior,Shaukat Khanum Memorial Hospital,0.1,0,1,Medium Risk
+187,113,72,190,False,31,Male,True,False,True,23.2,Young,Punjab Institute of Cardiology,0.0,0,1,Medium Risk
+315,114,72,194,False,50,Female,False,False,False,24.6,Middle,Hearts International Hospital,0.0,0,1,Medium Risk
+332,120,72,195,False,78,Male,False,True,False,22.6,Senior,Hearts International Hospital,0.0,0,1,Medium Risk
+349,122,72,218,False,69,Male,True,False,False,28.9,Senior,Rawalpindi Institute of Cardiology,0.0,0,1,Medium Risk
+437,135,72,180,False,57,Female,False,True,False,33.9,Middle,Peshawar Heart Center,0.0,0,1,Medium Risk
+63,114,73,217,False,27,Female,True,True,True,32.4,Young,National Institute of Cardiovascular Diseases,0.0,0,1,Medium Risk
+287,115,73,239,False,54,Male,False,True,False,23.9,Middle,Hearts International Hospital,0.1,0,1,Medium Risk
+340,118,73,202,False,67,Female,False,False,True,29.6,Senior,Hearts International Hospital,0.0,0,1,Medium Risk
+418,139,73,219,False,31,Male,True,True,True,27.3,Young,Faisalabad Institute of Cardiology,0.8,0,1,Medium Risk
+53,126,74,190,False,35,Female,True,True,False,27.0,Young,Karachi Cardiac Institute,0.0,0,1,Medium Risk
+104,111,74,209,False,70,Male,False,True,True,33.7,Senior,National Institute of Cardiovascular Diseases,0.0,0,1,Medium Risk
+203,121,74,231,False,36,Male,True,False,True,29.2,Young,Punjab Institute of Cardiology,0.1,0,1,Medium Risk
+205,119,74,193,False,35,Male,False,True,True,30.5,Young,Shaukat Khanum Memorial Hospital,0.0,0,1,Medium Risk
+206,135,74,229,False,51,Female,False,False,True,24.3,Middle,Shaukat Khanum Memorial Hospital,0.3,0,1,Medium Risk
+310,137,74,210,False,73,Male,False,False,True,34.2,Senior,Pakistan Institute of Medical Sciences,0.2,0,1,Medium Risk
+312,124,74,226,False,51,Male,True,False,True,27.2,Middle,Hearts International Hospital,0.1,0,1,Medium Risk
+461,110,74,217,False,65,Male,True,True,True,23.8,Senior,Multan Cardiac Center,0.0,0,1,Medium Risk
+498,127,74,227,False,53,Male,True,False,False,29.3,Middle,Quetta Cardiac Hospital,0.2,0,1,Medium Risk
+277,128,75,196,False,54,Male,False,True,True,30.4,Middle,Shaukat Khanum Memorial Hospital,0.1,0,1,Medium Risk
+331,126,75,188,False,79,Female,True,False,False,33.1,Senior,Pakistan Institute of Medical Sciences,0.0,0,1,Medium Risk
+385,119,75,194,False,78,Male,False,False,False,31.2,Senior,Rawalpindi Institute of Cardiology,0.0,0,1,Medium Risk
+404,133,75,239,False,33,Male,False,False,False,29.5,Young,Faisalabad Institute of Cardiology,0.6,0,1,Medium Risk
+8,132,76,205,False,41,Male,True,True,False,29.7,Middle,Aga Khan University Hospital,0.3,0,1,Medium Risk
+269,133,76,190,False,74,Female,False,True,True,28.9,Senior,Punjab Institute of Cardiology,0.1,0,1,Medium Risk
+364,112,76,237,False,25,Male,True,True,False,25.0,Young,Rawalpindi Institute of Cardiology,0.1,0,1,Medium Risk
+377,126,76,230,False,43,Female,False,False,True,34.0,Middle,Rawalpindi Institute of Cardiology,0.2,0,1,Medium Risk
+434,139,76,201,False,80,Female,True,False,True,28.9,Senior,Peshawar Heart Center,0.3,0,1,Medium Risk
+485,119,76,233,False,42,Female,True,True,True,23.6,Middle,Multan Cardiac Center,0.2,0,1,Medium Risk
+497,123,76,234,False,48,Male,True,False,True,24.0,Middle,Quetta Cardiac Hospital,0.2,0,1,Medium Risk
+67,114,77,203,False,48,Female,True,False,True,28.4,Middle,Karachi Cardiac Institute,0.0,0,1,Medium Risk
+218,125,77,216,False,45,Female,False,True,False,33.7,Middle,Shaukat Khanum Memorial Hospital,0.2,0,1,Medium Risk
+305,133,77,183,False,68,Male,False,False,True,34.2,Senior,Hearts International Hospital,0.0,0,1,Medium Risk
+380,137,77,235,False,55,Female,False,False,True,28.2,Middle,Rawalpindi Institute of Cardiology,1.1,0,1,Medium Risk
+383,121,77,227,False,71,Female,False,True,False,25.3,Senior,Rawalpindi Institute of Cardiology,0.2,0,1,Medium Risk
+487,121,77,226,False,72,Female,True,False,True,29.2,Senior,Multan Cardiac Center,0.2,0,1,Medium Risk
+41,129,78,219,False,64,Male,False,False,True,18.7,Senior,Aga Khan University Hospital,0.1,0,1,Medium Risk
+130,135,78,202,False,46,Male,True,True,False,24.7,Middle,Aga Khan University Hospital,0.4,0,1,Medium Risk
+139,133,78,239,False,64,Male,True,False,False,25.9,Senior,Karachi Cardiac Institute,1.5,0,1,Medium Risk
+148,123,78,180,False,36,Male,True,False,True,27.7,Young,Aga Khan University Hospital,0.0,0,1,Medium Risk
+263,131,78,184,False,45,Male,False,True,False,33.7,Middle,Shaukat Khanum Memorial Hospital,0.1,0,1,Medium Risk
+329,131,78,196,False,29,Male,True,True,False,19.9,Young,Pakistan Institute of Medical Sciences,0.1,0,1,Medium Risk
+378,110,78,198,False,32,Male,True,False,True,23.5,Young,Rawalpindi Institute of Cardiology,0.0,0,1,Medium Risk
+461,112,78,227,False,65,Male,True,True,True,23.8,Senior,Multan Cardiac Center,0.1,0,1,Medium Risk
+130,137,79,230,False,46,Male,True,True,False,24.7,Middle,Aga Khan University Hospital,3.1,0,1,Medium Risk
+261,131,79,211,False,30,Female,True,True,True,34.1,Young,Punjab Institute of Cardiology,0.8,0,1,Medium Risk
+429,137,79,189,False,50,Female,True,True,False,27.4,Middle,Peshawar Heart Center,0.3,0,1,Medium Risk
+492,131,79,219,False,56,Male,False,False,False,33.9,Middle,Multan Cardiac Center,0.4,0,1,Medium Risk
+146,136,80,216,False,65,Male,True,True,True,22.6,Senior,National Institute of Cardiovascular Diseases,1.5,0,1,Medium Risk
+213,129,80,217,False,61,Male,False,False,True,30.1,Senior,Punjab Institute of Cardiology,0.3,0,1,Medium Risk
+217,130,80,205,False,75,Male,True,True,False,33.0,Senior,Shaukat Khanum Memorial Hospital,0.6,0,1,Medium Risk
+303,119,80,208,False,79,Female,True,True,True,21.3,Senior,Pakistan Institute of Medical Sciences,0.1,0,1,Medium Risk
+317,119,80,184,False,48,Female,True,False,True,18.6,Middle,Hearts International Hospital,0.0,0,1,Medium Risk
+434,136,80,234,False,80,Female,True,False,True,28.9,Senior,Peshawar Heart Center,3.0,0,1,Medium Risk
+453,110,80,191,False,32,Male,False,True,True,24.2,Young,Peshawar Heart Center,0.0,0,1,Medium Risk
+513,133,80,192,False,30,Female,True,False,False,29.7,Young,Quetta Cardiac Hospital,0.2,0,1,Medium Risk
+129,136,81,182,False,33,Male,True,False,True,19.9,Young,National Institute of Cardiovascular Diseases,0.1,0,1,Medium Risk
+192,114,81,208,False,64,Female,True,True,True,30.9,Senior,Punjab Institute of Cardiology,0.1,0,1,Medium Risk
+198,128,81,236,False,67,Male,True,False,False,22.9,Senior,Shaukat Khanum Memorial Hospital,1.0,0,1,Medium Risk
+208,110,81,216,False,58,Female,True,True,False,33.4,Middle,Punjab Institute of Cardiology,0.1,0,1,Medium Risk
+220,137,81,191,False,42,Male,False,True,False,21.3,Middle,Punjab Institute of Cardiology,0.3,0,1,Medium Risk
+228,116,81,237,False,61,Female,False,False,True,32.2,Senior,Punjab Institute of Cardiology,0.3,0,1,Medium Risk
+352,115,81,197,False,36,Female,True,True,False,33.8,Young,Rawalpindi Institute of Cardiology,0.1,0,1,Medium Risk
+382,112,81,181,False,65,Female,True,False,False,29.4,Senior,Rawalpindi Institute of Cardiology,0.0,0,1,Medium Risk
+503,113,81,198,False,48,Female,False,False,False,33.5,Middle,Quetta Cardiac Hospital,0.0,0,1,Medium Risk
+37,126,82,203,False,37,Male,False,True,False,23.4,Young,Karachi Cardiac Institute,0.2,0,1,Medium Risk
+98,131,82,237,False,73,Male,False,True,False,28.4,Senior,National Institute of Cardiovascular Diseases,3.2,0,1,Medium Risk
+113,120,82,227,False,56,Female,False,False,True,34.6,Middle,Karachi Cardiac Institute,0.3,0,1,Medium Risk
+308,123,82,227,False,43,Female,True,True,False,30.4,Middle,Pakistan Institute of Medical Sciences,1.1,0,1,Medium Risk
+351,122,82,226,False,61,Male,False,False,False,32.9,Senior,Rawalpindi Institute of Cardiology,0.3,0,1,Medium Risk
+359,110,82,215,False,49,Male,True,True,True,23.5,Middle,Rawalpindi Institute of Cardiology,0.1,0,1,Medium Risk
+383,119,82,217,False,71,Female,False,True,False,25.3,Senior,Rawalpindi Institute of Cardiology,0.2,0,1,Medium Risk
+433,116,82,228,False,73,Female,True,False,False,27.1,Senior,Peshawar Heart Center,0.2,0,1,Medium Risk
+444,135,82,236,False,66,Male,False,True,True,29.7,Senior,Peshawar Heart Center,5.4,0,1,Medium Risk
+448,134,82,180,False,79,Female,True,False,False,31.9,Senior,Peshawar Heart Center,0.2,0,1,Medium Risk
+486,136,82,205,False,80,Male,False,False,False,27.0,Senior,Multan Cardiac Center,0.4,0,1,Medium Risk
+78,114,83,215,False,58,Male,True,False,True,22.7,Middle,Aga Khan University Hospital,0.1,0,1,Medium Risk
+228,112,83,181,False,61,Female,False,False,True,32.2,Senior,Punjab Institute of Cardiology,0.0,0,1,Medium Risk
+237,128,83,180,False,49,Female,True,True,False,20.2,Middle,Shaukat Khanum Memorial Hospital,0.1,0,1,Medium Risk
+299,115,83,209,False,26,Female,False,True,True,24.8,Young,Pakistan Institute of Medical Sciences,0.1,0,1,Medium Risk
+301,115,83,180,False,43,Female,True,False,True,23.3,Middle,Hearts International Hospital,0.0,0,1,Medium Risk
+87,125,84,204,False,40,Female,False,True,True,28.1,Young,Aga Khan University Hospital,0.3,0,1,Medium Risk
+111,115,84,198,False,41,Female,True,True,False,25.0,Middle,Karachi Cardiac Institute,0.1,0,1,Medium Risk
+136,111,84,193,False,35,Female,True,False,True,28.9,Young,Aga Khan University Hospital,0.0,0,1,Medium Risk
+213,132,84,235,False,61,Male,False,False,True,30.1,Senior,Shaukat Khanum Memorial Hospital,2.7,0,1,Medium Risk
+346,135,84,225,False,31,Male,True,True,True,21.1,Young,Rawalpindi Institute of Cardiology,4.0,0,1,Medium Risk
+391,112,84,229,False,34,Female,False,True,True,26.5,Young,Faisalabad Institute of Cardiology,0.3,0,1,Medium Risk
+414,127,84,215,False,70,Female,False,True,True,27.2,Senior,Faisalabad Institute of Cardiology,0.8,0,1,Medium Risk
+520,139,84,219,False,25,Female,False,False,False,19.0,Young,Quetta Cardiac Hospital,1.2,0,1,Medium Risk
+32,118,85,216,False,63,Female,False,False,False,23.5,Senior,National Institute of Cardiovascular Diseases,0.1,0,1,Medium Risk
+169,139,85,182,False,32,Male,True,False,True,32.7,Young,Punjab Institute of Cardiology,0.6,0,1,Medium Risk
+230,118,85,192,False,44,Female,True,True,False,22.4,Middle,Shaukat Khanum Memorial Hospital,0.1,0,1,Medium Risk
+369,116,85,222,False,68,Male,False,False,False,27.8,Senior,Rawalpindi Institute of Cardiology,0.2,0,1,Medium Risk
+407,139,85,189,False,51,Male,False,False,True,19.6,Middle,Faisalabad Institute of Cardiology,0.3,0,1,Medium Risk
+84,115,86,180,False,25,Female,True,False,True,20.7,Young,Karachi Cardiac Institute,0.0,0,1,Medium Risk
+211,126,86,180,False,34,Female,False,True,False,19.6,Young,Punjab Institute of Cardiology,0.1,0,1,Medium Risk
+450,130,86,188,False,63,Female,False,True,False,32.6,Senior,Peshawar Heart Center,0.4,0,1,Medium Risk
+456,130,86,219,False,60,Female,False,False,True,26.9,Middle,Peshawar Heart Center,1.0,0,1,Medium Risk
+463,133,86,209,False,50,Female,True,False,True,19.4,Middle,Multan Cardiac Center,0.9,0,1,Medium Risk
+474,110,86,223,False,59,Male,True,True,True,22.8,Middle,Multan Cardiac Center,0.3,0,1,Medium Risk
+27,123,87,203,False,48,Female,True,True,True,18.6,Middle,Aga Khan University Hospital,0.4,0,1,Medium Risk
+75,139,87,235,False,53,Female,True,False,False,27.7,Middle,Aga Khan University Hospital,13.1,0,1,Medium Risk
+92,121,87,195,False,73,Female,False,False,True,19.5,Senior,Karachi Cardiac Institute,0.1,0,1,Medium Risk
+131,135,87,188,False,78,Male,True,False,True,25.5,Senior,National Institute of Cardiovascular Diseases,0.6,0,1,Medium Risk
+152,124,87,227,False,26,Female,False,False,False,21.3,Young,Punjab Institute of Cardiology,0.6,0,1,Medium Risk
+167,116,87,195,False,80,Female,False,True,True,33.2,Senior,Punjab Institute of Cardiology,0.2,0,1,Medium Risk
+233,117,87,196,False,77,Male,False,True,False,22.5,Senior,Shaukat Khanum Memorial Hospital,0.1,0,1,Medium Risk
+281,118,87,230,False,39,Female,False,True,False,30.2,Young,Pakistan Institute of Medical Sciences,1.2,0,1,Medium Risk
+292,133,87,201,False,42,Male,False,True,True,21.4,Middle,Hearts International Hospital,0.9,0,1,Medium Risk
+310,112,87,238,False,73,Male,False,False,True,34.2,Senior,Hearts International Hospital,0.6,0,1,Medium Risk
+326,111,87,237,False,34,Female,False,False,False,22.6,Young,Hearts International Hospital,0.3,0,1,Medium Risk
+394,115,87,214,False,25,Male,False,True,True,34.8,Young,Faisalabad Institute of Cardiology,0.4,0,1,Medium Risk
+435,138,87,198,False,33,Male,True,True,False,25.6,Young,Peshawar Heart Center,2.6,0,1,Medium Risk
+450,131,87,196,False,63,Female,False,True,False,32.6,Senior,Peshawar Heart Center,1.0,0,1,Medium Risk
+511,112,87,194,False,26,Male,False,True,True,25.9,Young,Quetta Cardiac Hospital,0.1,0,1,Medium Risk
+135,120,88,198,False,40,Male,True,False,False,30.9,Young,Aga Khan University Hospital,0.2,0,1,Medium Risk
+277,121,88,197,False,54,Male,False,True,True,30.4,Middle,Punjab Institute of Cardiology,0.3,0,1,Medium Risk
+280,114,88,234,False,38,Female,True,False,False,27.6,Young,Shaukat Khanum Memorial Hospital,0.8,0,1,Medium Risk
+215,116,89,230,False,77,Male,True,False,True,32.9,Senior,Punjab Institute of Cardiology,1.5,0,1,Medium Risk
+294,117,89,221,False,33,Female,True,False,False,33.2,Young,Pakistan Institute of Medical Sciences,0.8,0,1,Medium Risk
+381,134,89,227,False,62,Male,False,True,False,26.3,Senior,Rawalpindi Institute of Cardiology,8.3,0,1,Medium Risk
+409,138,89,199,False,63,Male,False,False,False,20.8,Senior,Faisalabad Institute of Cardiology,1.1,0,1,Medium Risk
+412,126,89,195,False,30,Female,False,False,False,28.2,Young,Faisalabad Institute of Cardiology,0.3,0,1,Medium Risk
+434,139,89,226,False,80,Female,True,False,True,28.9,Senior,Peshawar Heart Center,13.8,0,1,Medium Risk
+444,127,89,191,False,66,Male,False,True,True,29.7,Senior,Peshawar Heart Center,0.6,0,1,Medium Risk
+446,120,89,194,False,65,Male,True,True,True,31.6,Senior,Peshawar Heart Center,0.5,0,1,Medium Risk
+459,117,89,235,False,25,Male,True,False,False,28.4,Young,Peshawar Heart Center,1.4,0,1,Medium Risk
+127,168,90,278,True,64,Female,False,True,True,30.9,Senior,National Institute of Cardiovascular Diseases,99.5,1,2,High Risk
+171,172,90,338,True,40,Male,False,True,False,20.6,Young,Shaukat Khanum Memorial Hospital,100.0,1,0,Low Risk
+310,183,90,320,True,73,Male,False,False,True,34.2,Senior,Pakistan Institute of Medical Sciences,100.0,1,2,High Risk
+436,187,90,245,True,78,Female,False,False,True,24.6,Senior,Peshawar Heart Center,99.0,1,0,Low Risk
+461,179,90,259,True,65,Male,True,True,True,23.8,Senior,Multan Cardiac Center,99.6,1,0,Low Risk
+493,158,90,328,True,45,Female,False,True,True,32.0,Middle,Multan Cardiac Center,99.9,1,2,High Risk
+24,168,91,293,True,47,Male,False,True,False,30.4,Middle,Aga Khan University Hospital,99.8,1,2,High Risk
+146,149,91,246,True,65,Male,True,True,True,22.6,Senior,Aga Khan University Hospital,78.3,1,0,Low Risk
+189,187,91,301,True,56,Female,False,True,False,34.5,Middle,Punjab Institute of Cardiology,100.0,1,2,High Risk
+201,140,91,299,True,74,Male,True,True,False,29.7,Senior,Shaukat Khanum Memorial Hospital,97.3,1,0,Low Risk
+215,155,91,281,True,77,Male,True,False,True,32.9,Senior,Shaukat Khanum Memorial Hospital,98.0,1,2,High Risk
+246,173,91,296,True,78,Male,True,True,True,28.3,Senior,Shaukat Khanum Memorial Hospital,99.9,1,0,Low Risk
+350,160,91,289,True,41,Male,True,False,True,31.3,Middle,Rawalpindi Institute of Cardiology,99.2,1,2,High Risk
+516,153,91,325,True,36,Male,True,True,False,34.9,Young,Quetta Cardiac Hospital,99.9,1,2,High Risk
+138,143,92,247,True,31,Male,True,False,False,33.1,Young,Karachi Cardiac Institute,61.5,1,2,High Risk
+169,143,92,312,True,32,Male,True,False,True,32.7,Young,Punjab Institute of Cardiology,98.6,1,2,High Risk
+219,151,92,340,True,74,Male,True,True,True,34.8,Senior,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+319,145,92,323,True,32,Male,True,False,True,31.3,Young,Hearts International Hospital,99.4,1,2,High Risk
+334,152,92,241,True,53,Male,False,True,True,27.7,Middle,Hearts International Hospital,78.6,1,1,Medium Risk
+356,189,92,298,True,49,Female,False,True,True,29.3,Middle,Rawalpindi Institute of Cardiology,100.0,1,2,High Risk
+5,177,93,315,True,68,Male,True,True,True,27.2,Senior,Aga Khan University Hospital,100.0,1,0,Low Risk
+155,173,93,284,True,67,Female,False,True,True,20.3,Senior,Shaukat Khanum Memorial Hospital,99.8,1,0,Low Risk
+177,141,93,283,True,29,Female,True,True,False,18.7,Young,Shaukat Khanum Memorial Hospital,92.2,1,0,Low Risk
+181,166,93,342,True,57,Male,True,True,True,18.6,Middle,Punjab Institute of Cardiology,100.0,1,0,Low Risk
+250,158,93,310,True,58,Female,True,False,False,22.2,Middle,Punjab Institute of Cardiology,99.7,1,0,Low Risk
+496,156,93,341,True,68,Male,True,False,False,31.1,Senior,Quetta Cardiac Hospital,100.0,1,2,High Risk
+22,142,94,274,True,47,Female,True,True,False,32.3,Middle,National Institute of Cardiovascular Diseases,95.3,1,2,High Risk
+35,140,94,323,True,80,Male,False,True,True,28.4,Senior,National Institute of Cardiovascular Diseases,99.4,1,0,Low Risk
+127,151,94,330,True,64,Female,False,True,True,30.9,Senior,Karachi Cardiac Institute,99.9,1,2,High Risk
+155,169,94,285,True,67,Female,False,True,True,20.3,Senior,Punjab Institute of Cardiology,99.7,1,0,Low Risk
+348,162,94,260,True,77,Male,True,True,True,22.3,Senior,Rawalpindi Institute of Cardiology,98.6,1,0,Low Risk
+511,185,94,269,True,26,Male,False,True,True,25.9,Young,Quetta Cardiac Hospital,99.9,1,2,High Risk
+64,189,95,293,True,64,Male,False,False,True,33.8,Senior,Aga Khan University Hospital,100.0,1,2,High Risk
+81,162,95,300,True,46,Female,True,False,True,26.6,Middle,National Institute of Cardiovascular Diseases,99.8,1,2,High Risk
+262,174,95,268,True,72,Male,False,True,False,24.0,Senior,Shaukat Khanum Memorial Hospital,99.7,1,0,Low Risk
+430,142,95,281,True,72,Male,False,True,False,23.0,Senior,Peshawar Heart Center,93.9,1,0,Low Risk
+436,183,95,335,True,78,Female,False,False,True,24.6,Senior,Peshawar Heart Center,100.0,1,0,Low Risk
+44,174,96,303,True,36,Male,False,True,True,22.1,Young,Karachi Cardiac Institute,100.0,1,0,Low Risk
+58,163,96,316,True,46,Male,True,False,False,34.5,Middle,Aga Khan University Hospital,100.0,1,2,High Risk
+138,153,96,263,True,31,Male,True,False,False,33.1,Young,Karachi Cardiac Institute,96.8,1,2,High Risk
+201,183,96,328,True,74,Male,True,True,False,29.7,Senior,Punjab Institute of Cardiology,100.0,1,0,Low Risk
+405,155,96,282,True,46,Female,True,True,True,30.7,Middle,Faisalabad Institute of Cardiology,99.6,1,2,High Risk
+466,183,97,253,True,36,Male,True,False,True,33.7,Young,Multan Cardiac Center,99.9,1,2,High Risk
+66,170,98,342,True,60,Male,True,True,False,28.2,Middle,National Institute of Cardiovascular Diseases,100.0,1,0,Low Risk
+166,163,98,304,True,38,Female,True,True,True,24.7,Young,Punjab Institute of Cardiology,100.0,1,0,Low Risk
+182,143,98,273,True,72,Male,False,True,True,26.9,Senior,Punjab Institute of Cardiology,96.2,1,0,Low Risk
+183,142,98,290,True,31,Male,True,True,False,33.8,Young,Shaukat Khanum Memorial Hospital,99.1,1,2,High Risk
+191,190,98,285,True,45,Male,False,False,True,31.9,Middle,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+214,190,98,340,True,25,Male,True,False,True,31.5,Young,Punjab Institute of Cardiology,100.0,1,2,High Risk
+215,174,98,274,True,77,Male,True,False,True,32.9,Senior,Shaukat Khanum Memorial Hospital,99.9,1,2,High Risk
+227,165,98,291,True,30,Male,True,True,False,34.4,Young,Punjab Institute of Cardiology,100.0,1,2,High Risk
+323,174,98,289,True,71,Male,True,False,True,30.2,Senior,Pakistan Institute of Medical Sciences,100.0,1,2,High Risk
+483,172,98,324,True,74,Female,True,True,True,27.0,Senior,Multan Cardiac Center,100.0,1,0,Low Risk
+516,174,98,254,True,36,Male,True,True,False,34.9,Young,Quetta Cardiac Hospital,99.9,1,2,High Risk
+181,144,99,297,True,57,Male,True,True,True,18.6,Middle,Shaukat Khanum Memorial Hospital,99.3,1,0,Low Risk
+189,140,99,304,True,56,Female,False,True,False,34.5,Middle,Shaukat Khanum Memorial Hospital,99.4,1,2,High Risk
+261,180,99,240,True,30,Female,True,True,True,34.1,Young,Shaukat Khanum Memorial Hospital,99.9,1,2,High Risk
+331,168,99,249,True,79,Female,True,False,False,33.1,Senior,Pakistan Institute of Medical Sciences,99.4,1,2,High Risk
+403,168,99,327,True,45,Female,False,True,True,33.6,Middle,Faisalabad Institute of Cardiology,100.0,1,2,High Risk
+104,184,100,317,True,70,Male,False,True,True,33.7,Senior,National Institute of Cardiovascular Diseases,100.0,1,2,High Risk
+169,172,100,291,True,32,Male,True,False,True,32.7,Young,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+197,149,100,319,True,26,Female,True,True,False,25.5,Young,Punjab Institute of Cardiology,99.9,1,0,Low Risk
+200,172,100,324,True,50,Male,True,False,False,25.4,Middle,Shaukat Khanum Memorial Hospital,100.0,1,0,Low Risk
+212,190,100,263,True,80,Female,True,True,True,19.8,Senior,Shaukat Khanum Memorial Hospital,100.0,1,0,Low Risk
+300,171,100,244,True,56,Female,False,True,False,30.6,Middle,Pakistan Institute of Medical Sciences,99.6,1,2,High Risk
+225,188,101,241,True,66,Male,True,True,False,21.8,Senior,Shaukat Khanum Memorial Hospital,99.9,1,0,Low Risk
+253,164,101,253,True,73,Male,False,False,True,29.7,Senior,Shaukat Khanum Memorial Hospital,99.1,1,2,High Risk
+357,166,101,342,True,59,Male,True,False,False,26.9,Middle,Rawalpindi Institute of Cardiology,100.0,1,0,Low Risk
+4,189,102,277,True,37,Male,False,False,True,23.2,Young,Karachi Cardiac Institute,100.0,1,0,Low Risk
+8,189,102,288,True,41,Male,True,True,False,29.7,Middle,Aga Khan University Hospital,100.0,1,2,High Risk
+40,175,102,317,True,80,Female,False,True,False,31.8,Senior,Karachi Cardiac Institute,100.0,1,2,High Risk
+163,149,102,338,True,34,Male,False,False,True,33.8,Young,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+192,162,102,330,True,64,Female,True,True,True,30.9,Senior,Punjab Institute of Cardiology,100.0,1,2,High Risk
+215,168,102,332,True,77,Male,True,False,True,32.9,Senior,Punjab Institute of Cardiology,100.0,1,2,High Risk
+392,161,102,341,True,40,Male,True,True,False,21.0,Young,Faisalabad Institute of Cardiology,100.0,1,0,Low Risk
+418,145,102,329,True,31,Male,True,True,True,27.3,Young,Faisalabad Institute of Cardiology,100.0,1,2,High Risk
+18,184,103,319,True,79,Female,False,False,True,31.4,Senior,Aga Khan University Hospital,100.0,1,2,High Risk
+20,186,103,248,True,53,Male,True,True,False,34.0,Middle,Aga Khan University Hospital,100.0,1,2,High Risk
+46,147,103,295,True,36,Male,True,False,False,30.8,Young,Aga Khan University Hospital,99.7,1,2,High Risk
+105,141,103,267,True,72,Female,False,True,True,26.7,Senior,Aga Khan University Hospital,97.3,1,0,Low Risk
+252,180,103,326,True,63,Male,False,True,True,31.1,Senior,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+278,164,103,288,True,70,Female,False,False,True,32.0,Senior,Shaukat Khanum Memorial Hospital,99.9,1,2,High Risk
+331,189,103,341,True,79,Female,True,False,False,33.1,Senior,Hearts International Hospital,100.0,1,2,High Risk
+349,190,103,310,True,69,Male,True,False,False,28.9,Senior,Rawalpindi Institute of Cardiology,100.0,1,2,High Risk
+113,185,104,334,True,56,Female,False,False,True,34.6,Middle,Karachi Cardiac Institute,100.0,1,2,High Risk
+219,175,104,240,True,74,Male,True,True,True,34.8,Senior,Shaukat Khanum Memorial Hospital,99.9,1,2,High Risk
+258,149,104,314,True,61,Female,False,True,True,24.1,Senior,Shaukat Khanum Memorial Hospital,99.9,1,0,Low Risk
+285,149,104,310,True,62,Male,False,False,True,30.9,Senior,Pakistan Institute of Medical Sciences,99.9,1,2,High Risk
+303,188,104,347,True,79,Female,True,True,True,21.3,Senior,Pakistan Institute of Medical Sciences,100.0,1,0,Low Risk
+396,180,104,258,True,58,Male,True,False,True,20.0,Middle,Faisalabad Institute of Cardiology,99.9,1,0,Low Risk
+514,174,104,271,True,59,Male,True,False,True,20.2,Middle,Quetta Cardiac Hospital,99.9,1,0,Low Risk
+21,176,105,338,True,53,Male,True,False,False,33.6,Middle,Aga Khan University Hospital,100.0,1,2,High Risk
+61,141,105,261,True,38,Male,False,False,False,22.0,Young,Karachi Cardiac Institute,92.7,1,0,Low Risk
+314,189,105,260,True,39,Male,False,False,True,23.4,Young,Pakistan Institute of Medical Sciences,100.0,1,0,Low Risk
+52,161,106,318,True,41,Male,True,True,True,28.9,Middle,Karachi Cardiac Institute,100.0,1,2,High Risk
+71,188,106,275,True,46,Male,False,True,False,20.8,Middle,Aga Khan University Hospital,100.0,1,0,Low Risk
+149,181,106,310,True,74,Male,True,False,False,30.1,Senior,National Institute of Cardiovascular Diseases,100.0,1,2,High Risk
+282,169,106,276,True,25,Female,False,True,True,32.5,Young,Hearts International Hospital,100.0,1,2,High Risk
+323,169,106,265,True,71,Male,True,False,True,30.2,Senior,Hearts International Hospital,99.9,1,2,High Risk
+346,180,106,272,True,31,Male,True,True,True,21.1,Young,Rawalpindi Institute of Cardiology,100.0,1,0,Low Risk
+366,159,106,344,True,33,Male,True,False,True,32.5,Young,Rawalpindi Institute of Cardiology,100.0,1,2,High Risk
+394,180,106,284,True,25,Male,False,True,True,34.8,Young,Faisalabad Institute of Cardiology,100.0,1,2,High Risk
+496,185,106,245,True,68,Male,True,False,False,31.1,Senior,Quetta Cardiac Hospital,100.0,1,2,High Risk
+15,163,107,276,True,64,Male,True,False,False,20.7,Senior,Aga Khan University Hospital,99.9,1,0,Low Risk
+131,148,107,301,True,78,Male,True,False,True,25.5,Senior,Karachi Cardiac Institute,99.9,1,0,Low Risk
+217,164,107,301,True,75,Male,True,True,False,33.0,Senior,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+319,176,107,279,True,32,Male,True,False,True,31.3,Young,Pakistan Institute of Medical Sciences,100.0,1,2,High Risk
+77,171,108,314,True,72,Female,False,True,False,21.8,Senior,Aga Khan University Hospital,100.0,1,0,Low Risk
+90,172,108,247,True,77,Female,True,True,False,33.6,Senior,Karachi Cardiac Institute,100.0,1,2,High Risk
+243,174,108,302,True,52,Male,True,True,True,34.4,Middle,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+252,186,108,325,True,63,Male,False,True,True,31.1,Senior,Punjab Institute of Cardiology,100.0,1,2,High Risk
+285,146,108,348,True,62,Male,False,False,True,30.9,Senior,Pakistan Institute of Medical Sciences,100.0,1,2,High Risk
+502,147,108,341,True,76,Male,True,True,False,18.5,Senior,Quetta Cardiac Hospital,100.0,1,0,Low Risk
+19,187,109,241,True,55,Male,True,True,True,33.2,Middle,Aga Khan University Hospital,100.0,1,2,High Risk
+27,182,109,317,True,48,Female,True,True,True,18.6,Middle,Aga Khan University Hospital,100.0,1,0,Low Risk
+104,185,109,337,True,70,Male,False,True,True,33.7,Senior,National Institute of Cardiovascular Diseases,100.0,1,2,High Risk
+261,190,109,256,True,30,Female,True,True,True,34.1,Young,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+96,163,110,263,True,55,Male,False,False,False,22.9,Middle,National Institute of Cardiovascular Diseases,99.8,1,0,Low Risk
+134,180,110,323,True,53,Male,True,True,False,25.2,Middle,Aga Khan University Hospital,100.0,1,0,Low Risk
+203,148,110,248,True,36,Male,True,False,True,29.2,Young,Punjab Institute of Cardiology,98.9,1,2,High Risk
+430,175,110,322,True,72,Male,False,True,False,23.0,Senior,Peshawar Heart Center,100.0,1,0,Low Risk
+469,160,110,249,True,42,Male,True,True,False,29.9,Middle,Multan Cardiac Center,99.9,1,2,High Risk
+122,152,111,343,True,54,Male,True,True,True,29.8,Middle,National Institute of Cardiovascular Diseases,100.0,1,2,High Risk
+212,168,111,263,True,80,Female,True,True,True,19.8,Senior,Shaukat Khanum Memorial Hospital,100.0,1,0,Low Risk
+294,157,111,274,True,33,Female,True,False,False,33.2,Young,Pakistan Institute of Medical Sciences,99.9,1,2,High Risk
+25,163,112,284,True,58,Male,True,False,False,22.8,Middle,Karachi Cardiac Institute,100.0,1,0,Low Risk
+36,162,112,266,True,31,Female,True,True,True,28.5,Young,Aga Khan University Hospital,100.0,1,2,High Risk
+149,185,112,308,True,74,Male,True,False,False,30.1,Senior,Aga Khan University Hospital,100.0,1,2,High Risk
+156,165,112,273,True,74,Female,True,False,True,32.3,Senior,Punjab Institute of Cardiology,100.0,1,2,High Risk
+177,170,112,272,True,29,Female,True,True,False,18.7,Young,Punjab Institute of Cardiology,100.0,1,0,Low Risk
+481,152,112,288,True,41,Female,True,True,False,31.0,Middle,Multan Cardiac Center,100.0,1,2,High Risk
+40,164,113,257,True,80,Female,False,True,False,31.8,Senior,National Institute of Cardiovascular Diseases,100.0,1,2,High Risk
+41,145,113,299,True,64,Male,False,False,True,18.7,Senior,National Institute of Cardiovascular Diseases,99.9,1,0,Low Risk
+77,155,113,264,True,72,Female,False,True,False,21.8,Senior,Aga Khan University Hospital,99.9,1,0,Low Risk
+147,153,113,243,True,32,Female,False,True,True,32.4,Young,National Institute of Cardiovascular Diseases,99.7,1,2,High Risk
+276,149,113,275,True,28,Male,True,True,False,21.0,Young,Shaukat Khanum Memorial Hospital,99.9,1,0,Low Risk
+304,190,113,267,True,45,Male,False,False,True,24.0,Middle,Hearts International Hospital,100.0,1,0,Low Risk
+330,174,113,261,True,28,Female,True,False,True,29.4,Young,Hearts International Hospital,100.0,1,2,High Risk
+415,186,113,275,True,54,Male,True,False,False,27.5,Middle,Faisalabad Institute of Cardiology,100.0,1,2,High Risk
+437,142,113,249,True,57,Female,False,True,False,33.9,Middle,Peshawar Heart Center,99.2,1,2,High Risk
+114,177,114,299,True,36,Female,False,True,True,30.9,Young,Karachi Cardiac Institute,100.0,1,2,High Risk
+184,186,114,257,True,74,Female,False,True,False,31.1,Senior,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+240,164,114,324,True,77,Female,False,False,True,34.2,Senior,Punjab Institute of Cardiology,100.0,1,2,High Risk
+243,178,114,327,True,52,Male,True,True,True,34.4,Middle,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+431,165,115,311,True,29,Female,False,True,True,32.1,Young,Peshawar Heart Center,100.0,1,2,High Risk
+435,148,115,260,True,33,Male,True,True,False,25.6,Young,Peshawar Heart Center,99.9,1,0,Low Risk
+472,141,115,311,True,64,Female,False,True,True,27.5,Senior,Multan Cardiac Center,100.0,1,0,Low Risk
+518,177,115,331,True,40,Female,False,True,False,24.2,Young,Quetta Cardiac Hospital,100.0,1,0,Low Risk
+24,172,116,320,True,47,Male,False,True,False,30.4,Middle,National Institute of Cardiovascular Diseases,100.0,1,2,High Risk
+129,167,116,245,True,33,Male,True,False,True,19.9,Young,National Institute of Cardiovascular Diseases,99.9,1,0,Low Risk
+224,143,116,340,True,28,Female,False,True,True,27.4,Young,Punjab Institute of Cardiology,100.0,1,2,High Risk
+313,173,116,349,True,71,Male,True,False,False,32.5,Senior,Pakistan Institute of Medical Sciences,100.0,1,2,High Risk
+417,185,116,276,True,70,Male,False,False,True,28.0,Senior,Faisalabad Institute of Cardiology,100.0,1,2,High Risk
+516,172,116,253,True,36,Male,True,True,False,34.9,Young,Quetta Cardiac Hospital,100.0,1,2,High Risk
+83,154,117,298,True,49,Female,True,True,False,21.0,Middle,Aga Khan University Hospital,100.0,1,0,Low Risk
+165,146,117,316,True,59,Male,True,True,True,19.0,Middle,Punjab Institute of Cardiology,100.0,1,0,Low Risk
+242,155,117,295,True,60,Male,True,False,True,23.6,Middle,Punjab Institute of Cardiology,100.0,1,0,Low Risk
+108,142,118,260,True,36,Male,True,True,True,27.2,Young,Aga Khan University Hospital,99.9,1,2,High Risk
+200,168,118,315,True,50,Male,True,False,False,25.4,Middle,Shaukat Khanum Memorial Hospital,100.0,1,0,Low Risk
+212,183,118,337,True,80,Female,True,True,True,19.8,Senior,Punjab Institute of Cardiology,100.0,1,0,Low Risk
+293,158,118,341,True,37,Male,True,True,True,34.8,Young,Hearts International Hospital,100.0,1,2,High Risk
+474,185,118,247,True,59,Male,True,True,True,22.8,Middle,Multan Cardiac Center,100.0,1,0,Low Risk
+495,170,118,324,True,80,Male,False,False,True,33.6,Senior,Multan Cardiac Center,100.0,1,2,High Risk
+219,174,119,334,True,74,Male,True,True,True,34.8,Senior,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+278,151,119,259,True,70,Female,False,False,True,32.0,Senior,Punjab Institute of Cardiology,99.9,1,2,High Risk
+455,144,119,263,True,32,Male,True,True,True,28.7,Young,Peshawar Heart Center,99.9,1,2,High Risk
+496,178,119,312,True,68,Male,True,False,False,31.1,Senior,Quetta Cardiac Hospital,100.0,1,2,High Risk
+89,153,120,327,True,44,Female,True,True,False,23.1,Middle,Aga Khan University Hospital,100.0,1,0,Low Risk
+239,150,120,327,True,62,Female,True,True,False,25.2,Senior,Shaukat Khanum Memorial Hospital,100.0,1,0,Low Risk
+276,173,120,333,True,28,Male,True,True,False,21.0,Young,Shaukat Khanum Memorial Hospital,100.0,1,0,Low Risk
+319,147,120,307,True,32,Male,True,False,True,31.3,Young,Hearts International Hospital,100.0,1,2,High Risk
+501,175,120,266,True,32,Male,True,True,True,32.7,Young,Quetta Cardiac Hospital,100.0,1,2,High Risk
+20,122,70,212,False,53,Male,True,True,False,34.0,Middle,Karachi Cardiac Institute,0.1,0,1,Medium Risk
+79,122,70,238,False,63,Male,False,False,True,29.3,Senior,Karachi Cardiac Institute,0.1,0,1,Medium Risk
+158,123,70,192,False,67,Female,True,False,False,31.7,Senior,Punjab Institute of Cardiology,0.0,0,1,Medium Risk
+159,132,70,230,False,65,Male,True,False,False,31.7,Senior,Shaukat Khanum Memorial Hospital,0.2,0,1,Medium Risk
+267,126,70,227,False,29,Male,True,False,True,26.6,Young,Punjab Institute of Cardiology,0.1,0,1,Medium Risk
+410,124,70,204,False,60,Male,True,False,False,34.0,Middle,Faisalabad Institute of Cardiology,0.0,0,1,Medium Risk
+24,124,71,232,False,47,Male,False,True,False,30.4,Middle,National Institute of Cardiovascular Diseases,0.1,0,1,Medium Risk
+39,139,71,194,False,38,Female,False,False,True,20.0,Young,Aga Khan University Hospital,0.0,0,1,Medium Risk
+238,121,71,221,False,76,Male,False,True,False,27.3,Senior,Punjab Institute of Cardiology,0.0,0,1,Medium Risk
+350,115,71,228,False,41,Male,True,False,True,31.3,Middle,Rawalpindi Institute of Cardiology,0.0,0,1,Medium Risk
+354,133,71,209,False,45,Female,False,True,True,31.3,Middle,Rawalpindi Institute of Cardiology,0.1,0,1,Medium Risk
+360,135,71,220,False,49,Female,False,False,False,26.7,Middle,Rawalpindi Institute of Cardiology,0.1,0,1,Medium Risk
+441,132,71,235,False,70,Female,True,True,True,18.9,Senior,Peshawar Heart Center,0.4,0,1,Medium Risk
+472,133,71,211,False,64,Female,False,True,True,27.5,Senior,Multan Cardiac Center,0.1,0,1,Medium Risk
+519,126,71,207,False,73,Male,True,True,True,31.3,Senior,Quetta Cardiac Hospital,0.1,0,1,Medium Risk
+25,137,72,237,False,58,Male,True,False,False,22.8,Middle,National Institute of Cardiovascular Diseases,0.6,0,1,Medium Risk
+116,112,72,232,False,57,Male,False,True,False,32.5,Middle,Karachi Cardiac Institute,0.0,0,1,Medium Risk
+134,118,72,181,False,53,Male,True,True,False,25.2,Middle,National Institute of Cardiovascular Diseases,0.0,0,1,Medium Risk
+241,133,72,184,False,62,Female,True,False,False,21.8,Senior,Punjab Institute of Cardiology,0.0,0,1,Medium Risk
+282,137,72,203,False,25,Female,False,True,True,32.5,Young,Pakistan Institute of Medical Sciences,0.2,0,1,Medium Risk
+339,133,72,181,False,25,Male,True,False,False,25.8,Young,Hearts International Hospital,0.0,0,1,Medium Risk
+471,127,72,202,False,26,Male,False,False,False,33.8,Young,Multan Cardiac Center,0.0,0,1,Medium Risk
+475,117,72,193,False,39,Male,True,False,False,22.3,Young,Multan Cardiac Center,0.0,0,1,Medium Risk
+83,136,73,220,False,49,Female,True,True,False,21.0,Middle,Karachi Cardiac Institute,0.4,0,1,Medium Risk
+190,132,73,225,False,48,Female,True,False,True,19.0,Middle,Shaukat Khanum Memorial Hospital,0.2,0,1,Medium Risk
+259,137,73,190,False,72,Male,True,False,False,26.2,Senior,Shaukat Khanum Memorial Hospital,0.1,0,1,Medium Risk
+269,136,73,232,False,74,Female,False,True,True,28.9,Senior,Punjab Institute of Cardiology,0.9,0,1,Medium Risk
+35,121,74,187,False,80,Male,False,True,True,28.4,Senior,Karachi Cardiac Institute,0.0,0,1,Medium Risk
+78,118,74,224,False,58,Male,True,False,True,22.7,Middle,Karachi Cardiac Institute,0.0,0,1,Medium Risk
+173,133,74,199,False,38,Male,False,False,False,26.9,Young,Punjab Institute of Cardiology,0.0,0,1,Medium Risk
+243,138,74,223,False,52,Male,True,True,True,34.4,Middle,Shaukat Khanum Memorial Hospital,1.6,0,1,Medium Risk
+454,122,74,232,False,25,Male,False,False,True,22.1,Young,Peshawar Heart Center,0.1,0,1,Medium Risk
+464,138,74,217,False,33,Male,True,False,False,33.2,Young,Multan Cardiac Center,0.5,0,1,Medium Risk
+498,110,74,205,False,53,Male,True,False,False,29.3,Middle,Quetta Cardiac Hospital,0.0,0,1,Medium Risk
+69,116,75,191,False,52,Male,False,True,True,18.7,Middle,Aga Khan University Hospital,0.0,0,1,Medium Risk
+144,139,75,235,False,41,Female,False,True,True,30.9,Middle,National Institute of Cardiovascular Diseases,2.2,0,1,Medium Risk
+202,110,75,201,False,41,Female,False,False,False,29.2,Middle,Punjab Institute of Cardiology,0.0,0,1,Medium Risk
+235,121,75,234,False,26,Female,True,True,True,19.8,Young,Punjab Institute of Cardiology,0.2,0,1,Medium Risk
+320,137,75,195,False,50,Female,True,False,False,23.3,Middle,Pakistan Institute of Medical Sciences,0.1,0,1,Medium Risk
+385,117,75,195,False,78,Male,False,False,False,31.2,Senior,Rawalpindi Institute of Cardiology,0.0,0,1,Medium Risk
+393,110,75,186,False,59,Female,True,False,True,28.1,Middle,Faisalabad Institute of Cardiology,0.0,0,1,Medium Risk
+406,134,75,203,False,38,Male,False,False,True,19.3,Young,Faisalabad Institute of Cardiology,0.1,0,1,Medium Risk
+411,133,75,191,False,30,Male,False,False,False,19.2,Young,Faisalabad Institute of Cardiology,0.0,0,1,Medium Risk
+421,124,75,200,False,70,Male,False,False,False,24.5,Senior,Faisalabad Institute of Cardiology,0.0,0,1,Medium Risk
+451,123,75,183,False,54,Male,False,False,True,32.8,Middle,Peshawar Heart Center,0.0,0,1,Medium Risk
+451,136,75,229,False,54,Male,False,False,True,32.8,Middle,Peshawar Heart Center,0.6,0,1,Medium Risk
+43,126,76,211,False,31,Female,True,True,False,34.0,Young,Aga Khan University Hospital,0.2,0,1,Medium Risk
+140,121,76,223,False,70,Female,False,True,False,21.3,Senior,Karachi Cardiac Institute,0.1,0,1,Medium Risk
+207,120,76,183,False,30,Male,True,True,True,18.8,Young,Shaukat Khanum Memorial Hospital,0.0,0,1,Medium Risk
+220,136,76,236,False,42,Male,False,True,False,21.3,Middle,Punjab Institute of Cardiology,1.1,0,1,Medium Risk
+288,133,76,200,False,45,Male,False,False,True,30.9,Middle,Pakistan Institute of Medical Sciences,0.1,0,1,Medium Risk
+344,110,76,180,False,80,Female,False,False,False,21.0,Senior,Rawalpindi Institute of Cardiology,0.0,0,1,Medium Risk
+392,115,76,228,False,40,Male,True,True,False,21.0,Young,Faisalabad Institute of Cardiology,0.1,0,1,Medium Risk
+396,117,76,200,False,58,Male,True,False,True,20.0,Middle,Faisalabad Institute of Cardiology,0.0,0,1,Medium Risk
+402,125,76,238,False,80,Female,True,False,True,29.1,Senior,Faisalabad Institute of Cardiology,0.5,0,1,Medium Risk
+52,118,77,203,False,41,Male,True,True,True,28.9,Middle,Karachi Cardiac Institute,0.1,0,1,Medium Risk
+221,128,77,197,False,78,Female,True,False,False,26.8,Senior,Punjab Institute of Cardiology,0.1,0,1,Medium Risk
+233,137,77,212,False,77,Male,False,True,False,22.5,Senior,Shaukat Khanum Memorial Hospital,0.5,0,1,Medium Risk
+272,118,77,223,False,47,Male,False,True,False,29.4,Middle,Shaukat Khanum Memorial Hospital,0.1,0,1,Medium Risk
+373,127,77,202,False,39,Male,True,True,False,28.6,Young,Rawalpindi Institute of Cardiology,0.1,0,1,Medium Risk
+469,110,77,184,False,42,Male,True,True,False,29.9,Middle,Multan Cardiac Center,0.0,0,1,Medium Risk
+26,125,78,185,False,52,Female,True,True,False,25.6,Middle,Aga Khan University Hospital,0.0,0,1,Medium Risk
+33,139,78,210,False,43,Male,False,True,False,23.1,Middle,Aga Khan University Hospital,0.6,0,1,Medium Risk
+93,137,78,219,False,31,Male,True,True,False,18.7,Young,Karachi Cardiac Institute,1.0,0,1,Medium Risk
+128,123,78,188,False,42,Male,True,True,False,24.0,Middle,National Institute of Cardiovascular Diseases,0.0,0,1,Medium Risk
+238,121,78,185,False,76,Male,False,True,False,27.3,Senior,Shaukat Khanum Memorial Hospital,0.0,0,1,Medium Risk
+363,124,78,236,False,79,Female,False,False,True,22.0,Senior,Rawalpindi Institute of Cardiology,0.2,0,1,Medium Risk
+450,121,78,222,False,63,Female,False,True,False,32.6,Senior,Peshawar Heart Center,0.2,0,1,Medium Risk
+255,121,79,189,False,62,Female,False,False,False,19.6,Senior,Punjab Institute of Cardiology,0.0,0,1,Medium Risk
+313,122,79,210,False,71,Male,True,False,False,32.5,Senior,Hearts International Hospital,0.1,0,1,Medium Risk
+382,131,79,218,False,65,Female,True,False,False,29.4,Senior,Rawalpindi Institute of Cardiology,0.5,0,1,Medium Risk
+441,134,79,238,False,70,Female,True,True,True,18.9,Senior,Peshawar Heart Center,2.9,0,1,Medium Risk
+15,133,80,204,False,64,Male,True,False,False,20.7,Senior,Aga Khan University Hospital,0.2,0,1,Medium Risk
+118,129,80,237,False,46,Male,True,False,False,34.5,Middle,Karachi Cardiac Institute,1.7,0,1,Medium Risk
+231,129,80,200,False,26,Female,False,True,True,29.9,Young,Punjab Institute of Cardiology,0.2,0,1,Medium Risk
+244,132,80,186,False,54,Female,True,False,False,30.3,Middle,Punjab Institute of Cardiology,0.1,0,1,Medium Risk
+379,138,80,225,False,42,Male,True,True,True,33.7,Middle,Rawalpindi Institute of Cardiology,5.2,0,1,Medium Risk
+416,120,80,236,False,80,Female,True,False,False,20.9,Senior,Faisalabad Institute of Cardiology,0.3,0,1,Medium Risk
+480,113,80,196,False,68,Female,False,True,False,27.3,Senior,Multan Cardiac Center,0.0,0,1,Medium Risk
+2,117,81,180,False,25,Female,True,True,False,34.9,Young,Aga Khan University Hospital,0.0,0,1,Medium Risk
+193,121,81,224,False,64,Male,True,False,False,23.8,Senior,Punjab Institute of Cardiology,0.2,0,1,Medium Risk
+267,119,81,190,False,29,Male,True,False,True,26.6,Young,Shaukat Khanum Memorial Hospital,0.0,0,1,Medium Risk
+324,120,81,217,False,30,Male,False,True,True,23.1,Young,Pakistan Institute of Medical Sciences,0.2,0,1,Medium Risk
+458,128,81,226,False,43,Female,True,False,True,33.3,Middle,Peshawar Heart Center,1.0,0,1,Medium Risk
+461,116,81,201,False,65,Male,True,True,True,23.8,Senior,Multan Cardiac Center,0.1,0,1,Medium Risk
+38,113,82,218,False,33,Male,True,False,False,29.4,Young,Karachi Cardiac Institute,0.1,0,1,Medium Risk
+197,132,82,225,False,26,Female,True,True,False,25.5,Young,Shaukat Khanum Memorial Hospital,2.2,0,1,Medium Risk
+279,124,82,223,False,58,Female,False,True,False,29.8,Middle,Punjab Institute of Cardiology,0.6,0,1,Medium Risk
+290,135,82,221,False,38,Female,False,True,True,26.1,Young,Pakistan Institute of Medical Sciences,1.8,0,1,Medium Risk
+353,112,82,222,False,80,Male,False,False,True,22.0,Senior,Rawalpindi Institute of Cardiology,0.1,0,1,Medium Risk
+427,112,82,222,False,44,Female,True,False,False,20.2,Middle,Peshawar Heart Center,0.1,0,1,Medium Risk
+14,115,83,183,False,64,Female,False,False,False,21.9,Senior,National Institute of Cardiovascular Diseases,0.0,0,1,Medium Risk
+141,131,83,199,False,30,Female,True,True,True,18.6,Young,National Institute of Cardiovascular Diseases,0.4,0,1,Medium Risk
+144,133,83,182,False,41,Female,False,True,True,30.9,Middle,Aga Khan University Hospital,0.2,0,1,Medium Risk
+164,117,83,199,False,56,Female,False,True,False,22.0,Middle,Punjab Institute of Cardiology,0.1,0,1,Medium Risk
+296,137,83,194,False,55,Female,False,False,True,29.4,Middle,Hearts International Hospital,0.4,0,1,Medium Risk
+307,122,83,225,False,77,Female,True,False,False,33.5,Senior,Pakistan Institute of Medical Sciences,0.7,0,1,Medium Risk
+322,133,83,206,False,31,Female,False,False,False,20.1,Young,Pakistan Institute of Medical Sciences,0.2,0,1,Medium Risk
+378,112,83,213,False,32,Male,True,False,True,23.5,Young,Rawalpindi Institute of Cardiology,0.1,0,1,Medium Risk
+424,129,83,213,False,52,Male,True,False,True,25.5,Middle,Faisalabad Institute of Cardiology,0.5,0,1,Medium Risk
+482,133,83,200,False,53,Male,False,False,False,25.9,Middle,Multan Cardiac Center,0.2,0,1,Medium Risk
+3,112,84,184,False,58,Male,False,False,True,24.3,Middle,Karachi Cardiac Institute,0.0,0,1,Medium Risk
+13,116,84,239,False,66,Female,False,False,True,25.1,Senior,Aga Khan University Hospital,0.4,0,1,Medium Risk
+64,128,84,238,False,64,Male,False,False,True,33.8,Senior,Aga Khan University Hospital,2.4,0,1,Medium Risk
+91,110,84,206,False,35,Male,False,False,True,22.6,Young,Karachi Cardiac Institute,0.0,0,1,Medium Risk
+131,117,84,198,False,78,Male,True,False,True,25.5,Senior,Karachi Cardiac Institute,0.1,0,1,Medium Risk
+142,125,84,191,False,79,Female,True,False,False,24.3,Senior,Aga Khan University Hospital,0.1,0,1,Medium Risk
+187,127,84,207,False,31,Male,True,False,True,23.2,Young,Punjab Institute of Cardiology,0.3,0,1,Medium Risk
+239,119,84,212,False,62,Female,True,True,False,25.2,Senior,Shaukat Khanum Memorial Hospital,0.4,0,1,Medium Risk
+318,113,84,216,False,25,Female,False,True,True,20.1,Young,Pakistan Institute of Medical Sciences,0.1,0,1,Medium Risk
+336,112,84,216,False,78,Male,True,True,False,26.1,Senior,Pakistan Institute of Medical Sciences,0.2,0,1,Medium Risk
+367,130,84,199,False,73,Male,False,True,False,28.7,Senior,Rawalpindi Institute of Cardiology,0.5,0,1,Medium Risk
+392,111,84,204,False,40,Male,True,True,False,21.0,Young,Faisalabad Institute of Cardiology,0.1,0,1,Medium Risk
+519,110,84,202,False,73,Male,True,True,True,31.3,Senior,Quetta Cardiac Hospital,0.1,0,1,Medium Risk
+62,110,85,212,False,48,Male,False,True,True,23.0,Middle,Aga Khan University Hospital,0.1,0,1,Medium Risk
+100,114,85,231,False,27,Male,False,False,False,27.2,Young,Aga Khan University Hospital,0.2,0,1,Medium Risk
+181,120,85,232,False,57,Male,True,True,True,18.6,Middle,Shaukat Khanum Memorial Hospital,1.1,0,1,Medium Risk
+224,118,85,195,False,28,Female,False,True,True,27.4,Young,Punjab Institute of Cardiology,0.1,0,1,Medium Risk
+263,120,85,199,False,45,Male,False,True,False,33.7,Middle,Shaukat Khanum Memorial Hospital,0.2,0,1,Medium Risk
+268,131,85,220,False,79,Male,True,False,False,19.8,Senior,Shaukat Khanum Memorial Hospital,1.1,0,1,Medium Risk
+354,124,85,213,False,45,Female,False,True,True,31.3,Middle,Rawalpindi Institute of Cardiology,0.7,0,1,Medium Risk
+373,120,85,216,False,39,Male,True,True,False,28.6,Young,Rawalpindi Institute of Cardiology,0.7,0,1,Medium Risk
+414,110,85,188,False,70,Female,False,True,True,27.2,Senior,Faisalabad Institute of Cardiology,0.0,0,1,Medium Risk
+432,132,85,194,False,76,Female,True,True,True,23.5,Senior,Peshawar Heart Center,0.7,0,1,Medium Risk
+478,115,85,230,False,73,Female,True,False,True,22.2,Senior,Multan Cardiac Center,0.3,0,1,Medium Risk
+30,124,86,183,False,69,Female,True,True,False,26.1,Senior,Karachi Cardiac Institute,0.2,0,1,Medium Risk
+97,130,86,221,False,74,Male,True,False,False,25.5,Senior,Karachi Cardiac Institute,1.7,0,1,Medium Risk
+108,115,86,220,False,36,Male,True,True,True,27.2,Young,Karachi Cardiac Institute,0.6,0,1,Medium Risk
+110,119,86,227,False,37,Female,False,True,False,29.8,Young,Aga Khan University Hospital,0.9,0,1,Medium Risk
+254,120,86,221,False,74,Male,False,False,False,28.6,Senior,Shaukat Khanum Memorial Hospital,0.4,0,1,Medium Risk
+321,125,86,216,False,44,Male,True,False,True,23.0,Middle,Hearts International Hospital,0.6,0,1,Medium Risk
+397,138,86,213,False,43,Male,True,False,False,19.0,Middle,Faisalabad Institute of Cardiology,1.9,0,1,Medium Risk
+398,126,86,207,False,58,Female,False,True,False,33.4,Middle,Faisalabad Institute of Cardiology,0.8,0,1,Medium Risk
+440,130,86,231,False,50,Male,True,False,True,20.2,Middle,Peshawar Heart Center,2.3,0,1,Medium Risk
+506,126,86,194,False,50,Male,True,True,False,24.7,Middle,Quetta Cardiac Hospital,0.4,0,1,Medium Risk
+342,132,87,239,False,46,Female,False,True,True,30.2,Middle,Rawalpindi Institute of Cardiology,10.7,0,1,Medium Risk
+477,122,87,187,False,73,Female,False,True,False,33.4,Senior,Multan Cardiac Center,0.2,0,1,Medium Risk
+486,120,87,183,False,80,Male,False,False,False,27.0,Senior,Multan Cardiac Center,0.0,0,1,Medium Risk
+185,115,88,205,False,40,Female,True,False,True,32.0,Young,Shaukat Khanum Memorial Hospital,0.2,0,1,Medium Risk
+186,133,88,210,False,37,Female,False,True,False,21.1,Young,Punjab Institute of Cardiology,1.7,0,1,Medium Risk
+195,116,88,210,False,44,Male,True,False,False,20.7,Middle,Punjab Institute of Cardiology,0.2,0,1,Medium Risk
+201,132,88,212,False,74,Male,True,True,False,29.7,Senior,Punjab Institute of Cardiology,4.6,0,1,Medium Risk
+265,138,88,223,False,44,Female,True,False,False,33.9,Middle,Shaukat Khanum Memorial Hospital,9.7,0,1,Medium Risk
+297,129,88,219,False,56,Female,True,False,False,20.8,Middle,Pakistan Institute of Medical Sciences,1.5,0,1,Medium Risk
+348,110,88,198,False,77,Male,True,True,True,22.3,Senior,Rawalpindi Institute of Cardiology,0.1,0,1,Medium Risk
+362,123,88,233,False,35,Male,False,False,False,19.9,Young,Rawalpindi Institute of Cardiology,0.9,0,1,Medium Risk
+6,133,89,203,False,42,Male,False,False,False,28.9,Middle,Karachi Cardiac Institute,1.1,0,1,Medium Risk
+68,124,89,180,False,47,Female,True,False,True,26.7,Middle,Aga Khan University Hospital,0.1,0,1,Medium Risk
+80,120,89,187,False,62,Female,True,False,False,19.2,Senior,National Institute of Cardiovascular Diseases,0.1,0,1,Medium Risk
+99,136,89,207,False,65,Male,False,True,True,32.1,Senior,Aga Khan University Hospital,5.0,0,1,Medium Risk
+112,120,89,234,False,71,Male,False,False,False,25.6,Senior,Karachi Cardiac Institute,1.2,0,1,Medium Risk
+196,124,89,205,False,72,Female,False,False,False,23.2,Senior,Shaukat Khanum Memorial Hospital,0.3,0,1,Medium Risk
+249,124,89,199,False,65,Male,False,True,True,25.0,Senior,Shaukat Khanum Memorial Hospital,0.5,0,1,Medium Risk
+259,139,89,224,False,72,Male,True,False,False,26.2,Senior,Punjab Institute of Cardiology,10.3,0,1,Medium Risk
+268,127,89,215,False,79,Male,True,False,False,19.8,Senior,Punjab Institute of Cardiology,1.1,0,1,Medium Risk
+116,148,90,258,True,57,Male,False,True,False,32.5,Middle,National Institute of Cardiovascular Diseases,83.1,1,2,High Risk
+157,153,90,288,True,61,Male,False,True,True,19.1,Senior,Punjab Institute of Cardiology,96.6,1,0,Low Risk
+386,147,90,300,True,80,Male,False,False,False,26.3,Senior,Faisalabad Institute of Cardiology,95.0,1,0,Low Risk
+222,177,91,306,True,74,Female,True,False,False,33.7,Senior,Punjab Institute of Cardiology,100.0,1,2,High Risk
+227,151,91,331,True,30,Male,True,True,False,34.4,Young,Shaukat Khanum Memorial Hospital,99.9,1,2,High Risk
+251,145,91,292,True,64,Female,True,False,True,32.0,Senior,Punjab Institute of Cardiology,96.2,1,2,High Risk
+285,153,91,331,True,62,Male,False,False,True,30.9,Senior,Pakistan Institute of Medical Sciences,99.7,1,2,High Risk
+499,168,91,278,True,48,Male,False,True,True,30.5,Middle,Quetta Cardiac Hospital,99.5,1,2,High Risk
+58,156,92,240,True,46,Male,True,False,False,34.5,Middle,Karachi Cardiac Institute,85.4,1,2,High Risk
+63,164,92,274,True,27,Female,True,True,True,32.4,Young,National Institute of Cardiovascular Diseases,99.5,1,2,High Risk
+98,158,92,337,True,73,Male,False,True,False,28.4,Senior,Karachi Cardiac Institute,100.0,1,0,Low Risk
+99,175,92,321,True,65,Male,False,True,True,32.1,Senior,Aga Khan University Hospital,100.0,1,2,High Risk
+207,180,92,285,True,30,Male,True,True,True,18.8,Young,Shaukat Khanum Memorial Hospital,99.9,1,0,Low Risk
+275,172,92,328,True,52,Male,True,False,True,24.3,Middle,Shaukat Khanum Memorial Hospital,100.0,1,0,Low Risk
+376,161,92,275,True,58,Male,True,True,True,25.7,Middle,Rawalpindi Institute of Cardiology,99.1,1,0,Low Risk
+147,190,93,259,True,32,Female,False,True,True,32.4,Young,Karachi Cardiac Institute,99.9,1,2,High Risk
+311,171,93,249,True,30,Female,False,False,True,29.7,Young,Pakistan Institute of Medical Sciences,97.4,1,2,High Risk
+336,161,93,246,True,78,Male,True,True,False,26.1,Senior,Pakistan Institute of Medical Sciences,96.4,1,0,Low Risk
+72,175,94,262,True,80,Female,True,False,True,24.9,Senior,Karachi Cardiac Institute,99.6,1,0,Low Risk
+165,165,94,327,True,59,Male,True,True,True,19.0,Middle,Punjab Institute of Cardiology,100.0,1,0,Low Risk
+464,178,94,347,True,33,Male,True,False,False,33.2,Young,Multan Cardiac Center,100.0,1,2,High Risk
+519,160,94,325,True,73,Male,True,True,True,31.3,Senior,Quetta Cardiac Hospital,100.0,1,2,High Risk
+35,159,95,282,True,80,Male,False,True,True,28.4,Senior,National Institute of Cardiovascular Diseases,99.5,1,0,Low Risk
+141,184,95,316,True,30,Female,True,True,True,18.6,Young,National Institute of Cardiovascular Diseases,100.0,1,0,Low Risk
+302,180,95,275,True,27,Male,True,True,True,23.3,Young,Hearts International Hospital,99.9,1,0,Low Risk
+123,153,96,271,True,76,Male,True,True,True,18.5,Senior,Karachi Cardiac Institute,98.2,1,0,Low Risk
+178,151,96,300,True,30,Female,False,True,True,32.4,Young,Shaukat Khanum Memorial Hospital,99.6,1,2,High Risk
+399,180,96,279,True,41,Female,False,True,True,28.4,Middle,Faisalabad Institute of Cardiology,100.0,1,2,High Risk
+501,178,96,304,True,32,Male,True,True,True,32.7,Young,Quetta Cardiac Hospital,100.0,1,2,High Risk
+502,172,96,254,True,76,Male,True,True,False,18.5,Senior,Quetta Cardiac Hospital,99.5,1,0,Low Risk
+13,182,97,259,True,66,Female,False,False,True,25.1,Senior,Aga Khan University Hospital,99.8,1,0,Low Risk
+66,142,97,286,True,60,Male,True,True,False,28.2,Middle,National Institute of Cardiovascular Diseases,98.4,1,0,Low Risk
+182,158,97,341,True,72,Male,False,True,True,26.9,Senior,Punjab Institute of Cardiology,100.0,1,0,Low Risk
+275,151,97,328,True,52,Male,True,False,True,24.3,Middle,Punjab Institute of Cardiology,99.9,1,0,Low Risk
+508,155,97,321,True,61,Male,True,False,False,19.5,Senior,Quetta Cardiac Hospital,99.9,1,0,Low Risk
+236,162,98,349,True,53,Male,False,True,True,24.9,Middle,Punjab Institute of Cardiology,100.0,1,0,Low Risk
+327,171,98,286,True,62,Female,True,False,True,31.6,Senior,Hearts International Hospital,99.9,1,2,High Risk
+333,148,98,296,True,75,Female,False,True,True,26.9,Senior,Pakistan Institute of Medical Sciences,99.4,1,0,Low Risk
+336,168,98,243,True,78,Male,True,True,False,26.1,Senior,Pakistan Institute of Medical Sciences,99.3,1,0,Low Risk
+359,183,98,321,True,49,Male,True,True,True,23.5,Middle,Rawalpindi Institute of Cardiology,100.0,1,0,Low Risk
+505,148,98,299,True,65,Male,True,False,False,32.9,Senior,Quetta Cardiac Hospital,99.5,1,2,High Risk
+517,161,98,327,True,67,Female,True,False,True,35.0,Senior,Quetta Cardiac Hospital,100.0,1,2,High Risk
+7,172,99,335,True,61,Male,False,False,True,22.7,Senior,National Institute of Cardiovascular Diseases,100.0,1,0,Low Risk
+44,162,99,333,True,36,Male,False,True,True,22.1,Young,Aga Khan University Hospital,100.0,1,0,Low Risk
+309,190,99,274,True,62,Male,False,True,False,28.6,Senior,Hearts International Hospital,100.0,1,0,Low Risk
+405,158,99,250,True,46,Female,True,True,True,30.7,Middle,Faisalabad Institute of Cardiology,98.9,1,2,High Risk
+422,176,99,319,True,80,Male,False,True,True,23.7,Senior,Faisalabad Institute of Cardiology,100.0,1,0,Low Risk
+78,189,100,290,True,58,Male,True,False,True,22.7,Middle,National Institute of Cardiovascular Diseases,100.0,1,0,Low Risk
+165,142,100,342,True,59,Male,True,True,True,19.0,Middle,Punjab Institute of Cardiology,99.9,1,0,Low Risk
+191,152,100,349,True,45,Male,False,False,True,31.9,Middle,Punjab Institute of Cardiology,100.0,1,2,High Risk
+364,162,100,350,True,25,Male,True,True,False,25.0,Young,Rawalpindi Institute of Cardiology,100.0,1,0,Low Risk
+5,162,101,337,True,68,Male,True,True,True,27.2,Senior,Aga Khan University Hospital,100.0,1,0,Low Risk
+215,154,101,347,True,77,Male,True,False,True,32.9,Senior,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+219,144,101,311,True,74,Male,True,True,True,34.8,Senior,Shaukat Khanum Memorial Hospital,99.9,1,2,High Risk
+243,152,101,285,True,52,Male,True,True,True,34.4,Middle,Punjab Institute of Cardiology,99.8,1,2,High Risk
+247,183,101,332,True,73,Female,False,True,False,19.7,Senior,Shaukat Khanum Memorial Hospital,100.0,1,0,Low Risk
+324,152,101,240,True,30,Male,False,True,True,23.1,Young,Pakistan Institute of Medical Sciences,93.7,1,0,Low Risk
+395,165,101,269,True,36,Female,False,True,True,30.0,Young,Faisalabad Institute of Cardiology,99.8,1,2,High Risk
+495,168,101,241,True,80,Male,False,False,True,33.6,Senior,Multan Cardiac Center,99.1,1,2,High Risk
+501,166,101,292,True,32,Male,True,True,True,32.7,Young,Quetta Cardiac Hospital,100.0,1,2,High Risk
+99,184,102,313,True,65,Male,False,True,True,32.1,Senior,Aga Khan University Hospital,100.0,1,2,High Risk
+330,189,102,338,True,28,Female,True,False,True,29.4,Young,Pakistan Institute of Medical Sciences,100.0,1,2,High Risk
+444,149,102,309,True,66,Male,False,True,True,29.7,Senior,Peshawar Heart Center,99.9,1,2,High Risk
+51,155,103,305,True,66,Male,False,True,False,30.6,Senior,Karachi Cardiac Institute,100.0,1,2,High Risk
+97,140,103,350,True,74,Male,True,False,False,25.5,Senior,Karachi Cardiac Institute,100.0,1,0,Low Risk
+161,183,103,299,True,57,Male,True,False,True,33.0,Middle,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+178,190,103,272,True,30,Female,False,True,True,32.4,Young,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+384,178,103,330,True,73,Male,True,True,False,20.0,Senior,Rawalpindi Institute of Cardiology,100.0,1,0,Low Risk
+36,141,104,267,True,31,Female,True,True,True,28.5,Young,Karachi Cardiac Institute,98.6,1,2,High Risk
+64,157,104,300,True,64,Male,False,False,True,33.8,Senior,Aga Khan University Hospital,99.9,1,2,High Risk
+316,158,104,295,True,26,Female,True,True,True,25.9,Young,Hearts International Hospital,100.0,1,0,Low Risk
+386,158,104,290,True,80,Male,False,False,False,26.3,Senior,Faisalabad Institute of Cardiology,99.8,1,0,Low Risk
+413,163,104,267,True,37,Female,True,False,True,33.3,Young,Faisalabad Institute of Cardiology,99.8,1,2,High Risk
+479,148,104,347,True,52,Female,True,False,True,20.1,Middle,Multan Cardiac Center,100.0,1,0,Low Risk
+227,164,105,287,True,30,Male,True,True,False,34.4,Young,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+316,190,105,280,True,26,Female,True,True,True,25.9,Young,Hearts International Hospital,100.0,1,0,Low Risk
+448,152,105,311,True,79,Female,True,False,False,31.9,Senior,Peshawar Heart Center,100.0,1,2,High Risk
+475,176,105,281,True,39,Male,True,False,False,22.3,Young,Multan Cardiac Center,100.0,1,0,Low Risk
+483,167,105,270,True,74,Female,True,True,True,27.0,Senior,Multan Cardiac Center,100.0,1,0,Low Risk
+9,144,106,266,True,62,Male,True,False,False,30.9,Senior,National Institute of Cardiovascular Diseases,98.8,1,2,High Risk
+18,167,106,293,True,79,Female,False,False,True,31.4,Senior,Karachi Cardiac Institute,100.0,1,2,High Risk
+35,170,106,318,True,80,Male,False,True,True,28.4,Senior,National Institute of Cardiovascular Diseases,100.0,1,0,Low Risk
+198,143,106,293,True,67,Male,True,False,False,22.9,Senior,Shaukat Khanum Memorial Hospital,99.6,1,0,Low Risk
+249,149,106,271,True,65,Male,False,True,True,25.0,Senior,Punjab Institute of Cardiology,99.5,1,0,Low Risk
+273,185,106,246,True,73,Male,False,True,False,24.1,Senior,Shaukat Khanum Memorial Hospital,100.0,1,0,Low Risk
+276,143,106,348,True,28,Male,True,True,False,21.0,Young,Shaukat Khanum Memorial Hospital,100.0,1,0,Low Risk
+313,185,106,287,True,71,Male,True,False,False,32.5,Senior,Hearts International Hospital,100.0,1,2,High Risk
+336,182,106,254,True,78,Male,True,True,False,26.1,Senior,Hearts International Hospital,100.0,1,0,Low Risk
+376,169,106,330,True,58,Male,True,True,True,25.7,Middle,Rawalpindi Institute of Cardiology,100.0,1,0,Low Risk
+19,162,107,241,True,55,Male,True,True,True,33.2,Middle,National Institute of Cardiovascular Diseases,99.8,1,2,High Risk
+312,171,107,249,True,51,Male,True,False,True,27.2,Middle,Hearts International Hospital,99.9,1,2,High Risk
+497,182,107,304,True,48,Male,True,False,True,24.0,Middle,Quetta Cardiac Hospital,100.0,1,0,Low Risk
+515,147,107,277,True,38,Male,True,True,True,26.4,Young,Quetta Cardiac Hospital,99.8,1,0,Low Risk
+50,159,108,262,True,60,Female,True,False,False,22.0,Middle,Karachi Cardiac Institute,99.7,1,0,Low Risk
+55,182,108,323,True,42,Female,False,True,True,27.8,Middle,Aga Khan University Hospital,100.0,1,2,High Risk
+122,178,108,309,True,54,Male,True,True,True,29.8,Middle,Karachi Cardiac Institute,100.0,1,2,High Risk
+160,187,108,293,True,69,Female,True,False,False,33.9,Senior,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+205,149,108,327,True,35,Male,False,True,True,30.5,Young,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+442,168,108,340,True,30,Female,True,True,False,33.4,Young,Peshawar Heart Center,100.0,1,2,High Risk
+488,140,108,271,True,50,Male,True,True,False,26.1,Middle,Multan Cardiac Center,99.3,1,0,Low Risk
+104,160,109,319,True,70,Male,False,True,True,33.7,Senior,Aga Khan University Hospital,100.0,1,2,High Risk
+123,162,109,350,True,76,Male,True,True,True,18.5,Senior,National Institute of Cardiovascular Diseases,100.0,1,0,Low Risk
+332,188,109,264,True,78,Male,False,True,False,22.6,Senior,Hearts International Hospital,100.0,1,0,Low Risk
+395,169,109,276,True,36,Female,False,True,True,30.0,Young,Faisalabad Institute of Cardiology,100.0,1,2,High Risk
+442,185,109,313,True,30,Female,True,True,False,33.4,Young,Peshawar Heart Center,100.0,1,2,High Risk
+209,171,110,320,True,75,Male,True,False,True,29.6,Senior,Punjab Institute of Cardiology,100.0,1,2,High Risk
+225,157,110,332,True,66,Male,True,True,False,21.8,Senior,Shaukat Khanum Memorial Hospital,100.0,1,0,Low Risk
+242,150,110,331,True,60,Male,True,False,True,23.6,Middle,Punjab Institute of Cardiology,100.0,1,0,Low Risk
+313,165,110,316,True,71,Male,True,False,False,32.5,Senior,Pakistan Institute of Medical Sciences,100.0,1,2,High Risk
+333,160,110,321,True,75,Female,False,True,True,26.9,Senior,Hearts International Hospital,100.0,1,0,Low Risk
+335,188,110,331,True,58,Female,False,True,True,29.5,Middle,Hearts International Hospital,100.0,1,2,High Risk
+34,150,111,303,True,38,Female,False,True,False,34.5,Young,National Institute of Cardiovascular Diseases,100.0,1,2,High Risk
+122,173,111,303,True,54,Male,True,True,True,29.8,Middle,Aga Khan University Hospital,100.0,1,2,High Risk
+127,157,111,304,True,64,Female,False,True,True,30.9,Senior,Aga Khan University Hospital,100.0,1,2,High Risk
+239,156,111,317,True,62,Female,True,True,False,25.2,Senior,Shaukat Khanum Memorial Hospital,100.0,1,0,Low Risk
+9,150,112,348,True,62,Male,True,False,False,30.9,Senior,Karachi Cardiac Institute,100.0,1,2,High Risk
+246,148,112,323,True,78,Male,True,True,True,28.3,Senior,Punjab Institute of Cardiology,100.0,1,0,Low Risk
+378,186,112,292,True,32,Male,True,False,True,23.5,Young,Rawalpindi Institute of Cardiology,100.0,1,0,Low Risk
+441,176,112,287,True,70,Female,True,True,True,18.9,Senior,Peshawar Heart Center,100.0,1,0,Low Risk
+458,175,112,256,True,43,Female,True,False,True,33.3,Middle,Peshawar Heart Center,100.0,1,2,High Risk
+502,168,112,254,True,76,Male,True,True,False,18.5,Senior,Quetta Cardiac Hospital,100.0,1,0,Low Risk
+9,147,113,292,True,62,Male,True,False,False,30.9,Senior,National Institute of Cardiovascular Diseases,100.0,1,2,High Risk
+72,146,113,303,True,80,Female,True,False,True,24.9,Senior,National Institute of Cardiovascular Diseases,100.0,1,0,Low Risk
+85,178,113,240,True,61,Male,False,False,False,20.6,Senior,National Institute of Cardiovascular Diseases,99.9,1,0,Low Risk
+117,169,113,253,True,61,Male,True,False,False,24.3,Senior,National Institute of Cardiovascular Diseases,100.0,1,0,Low Risk
+217,177,113,330,True,75,Male,True,True,False,33.0,Senior,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+306,180,113,243,True,32,Male,False,False,False,33.6,Young,Hearts International Hospital,100.0,1,2,High Risk
+417,163,113,265,True,70,Male,False,False,True,28.0,Senior,Faisalabad Institute of Cardiology,99.9,1,2,High Risk
+499,151,113,298,True,48,Male,False,True,True,30.5,Middle,Quetta Cardiac Hospital,100.0,1,2,High Risk
+5,172,114,314,True,68,Male,True,True,True,27.2,Senior,Karachi Cardiac Institute,100.0,1,0,Low Risk
+252,157,114,315,True,63,Male,False,True,True,31.1,Senior,Punjab Institute of Cardiology,100.0,1,2,High Risk
+64,161,115,276,True,64,Male,False,False,True,33.8,Senior,Karachi Cardiac Institute,100.0,1,2,High Risk
+70,182,115,282,True,27,Male,False,False,True,26.0,Young,Karachi Cardiac Institute,100.0,1,2,High Risk
+108,170,115,326,True,36,Male,True,True,True,27.2,Young,Karachi Cardiac Institute,100.0,1,2,High Risk
+126,156,115,331,True,36,Female,False,True,False,32.0,Young,National Institute of Cardiovascular Diseases,100.0,1,2,High Risk
+154,171,115,346,True,78,Male,False,True,False,27.1,Senior,Punjab Institute of Cardiology,100.0,1,0,Low Risk
+455,166,115,310,True,32,Male,True,True,True,28.7,Young,Peshawar Heart Center,100.0,1,2,High Risk
+34,154,116,244,True,38,Female,False,True,False,34.5,Young,Karachi Cardiac Institute,99.9,1,2,High Risk
+120,142,116,308,True,67,Male,True,False,False,27.3,Senior,National Institute of Cardiovascular Diseases,100.0,1,0,Low Risk
+240,183,116,244,True,77,Female,False,False,True,34.2,Senior,Punjab Institute of Cardiology,100.0,1,2,High Risk
+261,145,116,337,True,30,Female,True,True,True,34.1,Young,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+341,149,116,246,True,80,Male,True,False,True,19.2,Senior,Rawalpindi Institute of Cardiology,99.5,1,0,Low Risk
+342,151,116,339,True,46,Female,False,True,True,30.2,Middle,Rawalpindi Institute of Cardiology,100.0,1,2,High Risk
+390,189,116,283,True,66,Male,True,False,False,26.5,Senior,Faisalabad Institute of Cardiology,100.0,1,0,Low Risk
+514,150,116,328,True,59,Male,True,False,True,20.2,Middle,Quetta Cardiac Hospital,100.0,1,0,Low Risk
+21,161,117,310,True,53,Male,True,False,False,33.6,Middle,National Institute of Cardiovascular Diseases,100.0,1,2,High Risk
+174,149,117,260,True,54,Male,False,True,False,26.1,Middle,Shaukat Khanum Memorial Hospital,99.9,1,0,Low Risk
+210,178,117,254,True,48,Male,True,False,False,19.1,Middle,Shaukat Khanum Memorial Hospital,100.0,1,0,Low Risk
+420,146,117,335,True,64,Male,True,True,False,27.7,Senior,Faisalabad Institute of Cardiology,100.0,1,0,Low Risk
+426,164,117,350,True,49,Male,True,False,False,33.0,Middle,Peshawar Heart Center,100.0,1,2,High Risk
+2,172,118,240,True,25,Female,True,True,False,34.9,Young,Karachi Cardiac Institute,100.0,1,2,High Risk
+43,156,118,269,True,31,Female,True,True,False,34.0,Young,Aga Khan University Hospital,100.0,1,2,High Risk
+74,183,118,279,True,29,Male,False,False,False,33.4,Young,Karachi Cardiac Institute,100.0,1,2,High Risk
+82,140,118,310,True,75,Male,False,False,True,28.5,Senior,Aga Khan University Hospital,100.0,1,2,High Risk
+82,156,118,298,True,75,Male,False,False,True,28.5,Senior,National Institute of Cardiovascular Diseases,100.0,1,2,High Risk
+212,181,118,347,True,80,Female,True,True,True,19.8,Senior,Punjab Institute of Cardiology,100.0,1,0,Low Risk
+494,183,118,325,True,75,Male,True,False,True,25.8,Senior,Multan Cardiac Center,100.0,1,0,Low Risk
+52,150,119,284,True,41,Male,True,True,True,28.9,Middle,Aga Khan University Hospital,100.0,1,2,High Risk
+121,179,119,329,True,74,Female,False,True,True,30.1,Senior,National Institute of Cardiovascular Diseases,100.0,1,2,High Risk
+171,188,119,242,True,40,Male,False,True,False,20.6,Young,Shaukat Khanum Memorial Hospital,100.0,1,0,Low Risk
+172,144,119,316,True,68,Male,False,False,False,30.2,Senior,Punjab Institute of Cardiology,100.0,1,2,High Risk
+214,141,119,336,True,25,Male,True,False,True,31.5,Young,Punjab Institute of Cardiology,100.0,1,2,High Risk
+267,183,119,302,True,29,Male,True,False,True,26.6,Young,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+368,181,119,312,True,34,Male,True,True,True,30.4,Young,Rawalpindi Institute of Cardiology,100.0,1,2,High Risk
+379,166,119,304,True,42,Male,True,True,True,33.7,Middle,Rawalpindi Institute of Cardiology,100.0,1,2,High Risk
+217,159,120,336,True,75,Male,True,True,False,33.0,Senior,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+258,148,120,242,True,61,Female,False,True,True,24.1,Senior,Punjab Institute of Cardiology,99.8,1,0,Low Risk
+288,180,120,288,True,45,Male,False,False,True,30.9,Middle,Hearts International Hospital,100.0,1,2,High Risk
+390,173,120,316,True,66,Male,True,False,False,26.5,Senior,Faisalabad Institute of Cardiology,100.0,1,0,Low Risk
+501,178,120,321,True,32,Male,True,True,True,32.7,Young,Quetta Cardiac Hospital,100.0,1,2,High Risk
+234,122,70,187,False,67,Female,True,True,True,26.3,Senior,Punjab Institute of Cardiology,0.0,0,1,Medium Risk
+321,118,70,233,False,44,Male,True,False,True,23.0,Middle,Hearts International Hospital,0.0,0,1,Medium Risk
+347,124,70,238,False,44,Female,False,True,False,23.0,Middle,Rawalpindi Institute of Cardiology,0.1,0,1,Medium Risk
+472,132,70,198,False,64,Female,False,True,True,27.5,Senior,Multan Cardiac Center,0.0,0,1,Medium Risk
+485,120,70,185,False,42,Female,True,True,True,23.6,Middle,Multan Cardiac Center,0.0,0,1,Medium Risk
+74,137,71,226,False,29,Male,False,False,False,33.4,Young,Karachi Cardiac Institute,0.2,0,1,Medium Risk
+94,114,71,193,False,26,Female,False,False,False,21.5,Young,National Institute of Cardiovascular Diseases,0.0,0,1,Medium Risk
+109,130,71,221,False,76,Female,False,False,False,22.1,Senior,Karachi Cardiac Institute,0.0,0,1,Medium Risk
+118,117,71,193,False,46,Male,True,False,False,34.5,Middle,Aga Khan University Hospital,0.0,0,1,Medium Risk
+158,134,71,201,False,67,Female,True,False,False,31.7,Senior,Punjab Institute of Cardiology,0.1,0,1,Medium Risk
+194,130,71,227,False,57,Female,True,False,False,30.4,Middle,Punjab Institute of Cardiology,0.2,0,1,Medium Risk
+223,122,71,196,False,68,Female,False,False,True,22.8,Senior,Punjab Institute of Cardiology,0.0,0,1,Medium Risk
+278,121,71,197,False,70,Female,False,False,True,32.0,Senior,Shaukat Khanum Memorial Hospital,0.0,0,1,Medium Risk
+298,116,71,239,False,74,Female,False,True,False,18.6,Senior,Hearts International Hospital,0.0,0,1,Medium Risk
+337,134,71,217,False,64,Female,False,False,False,26.2,Senior,Pakistan Institute of Medical Sciences,0.1,0,1,Medium Risk
+356,129,71,226,False,49,Female,False,True,True,29.3,Middle,Rawalpindi Institute of Cardiology,0.2,0,1,Medium Risk
+387,120,71,234,False,28,Female,False,False,False,18.7,Young,Faisalabad Institute of Cardiology,0.0,0,1,Medium Risk
+413,119,71,211,False,37,Female,True,False,True,33.3,Young,Faisalabad Institute of Cardiology,0.0,0,1,Medium Risk
+19,113,72,182,False,55,Male,True,True,True,33.2,Middle,Aga Khan University Hospital,0.0,0,1,Medium Risk
+93,116,72,205,False,31,Male,True,True,False,18.7,Young,Aga Khan University Hospital,0.0,0,1,Medium Risk
+118,137,72,222,False,46,Male,True,False,False,34.5,Middle,National Institute of Cardiovascular Diseases,0.4,0,1,Medium Risk
+134,125,72,180,False,53,Male,True,True,False,25.2,Middle,Aga Khan University Hospital,0.0,0,1,Medium Risk
+192,134,72,199,False,64,Female,True,True,True,30.9,Senior,Punjab Institute of Cardiology,0.1,0,1,Medium Risk
+247,110,72,208,False,73,Female,False,True,False,19.7,Senior,Punjab Institute of Cardiology,0.0,0,1,Medium Risk
+415,129,72,223,False,54,Male,True,False,False,27.5,Middle,Faisalabad Institute of Cardiology,0.1,0,1,Medium Risk
+490,113,72,201,False,70,Female,True,True,True,22.4,Senior,Multan Cardiac Center,0.0,0,1,Medium Risk
+65,121,73,211,False,73,Female,False,True,False,34.5,Senior,Aga Khan University Hospital,0.1,0,1,Medium Risk
+92,125,73,219,False,73,Female,False,False,True,19.5,Senior,Aga Khan University Hospital,0.0,0,1,Medium Risk
+106,110,73,217,False,29,Female,True,False,True,28.0,Young,Aga Khan University Hospital,0.0,0,1,Medium Risk
+129,112,73,183,False,33,Male,True,False,True,19.9,Young,National Institute of Cardiovascular Diseases,0.0,0,1,Medium Risk
+146,114,73,209,False,65,Male,True,True,True,22.6,Senior,National Institute of Cardiovascular Diseases,0.0,0,1,Medium Risk
+151,123,73,205,False,47,Female,False,False,False,30.1,Middle,Shaukat Khanum Memorial Hospital,0.0,0,1,Medium Risk
+221,139,73,191,False,78,Female,True,False,False,26.8,Senior,Punjab Institute of Cardiology,0.1,0,1,Medium Risk
+287,111,73,197,False,54,Male,False,True,False,23.9,Middle,Hearts International Hospital,0.0,0,1,Medium Risk
+384,130,73,191,False,73,Male,True,True,False,20.0,Senior,Rawalpindi Institute of Cardiology,0.0,0,1,Medium Risk
+455,137,73,228,False,32,Male,True,True,True,28.7,Young,Peshawar Heart Center,1.1,0,1,Medium Risk
+519,120,73,223,False,73,Male,True,True,True,31.3,Senior,Quetta Cardiac Hospital,0.1,0,1,Medium Risk
+57,114,74,210,False,43,Female,False,False,True,22.1,Middle,Karachi Cardiac Institute,0.0,0,1,Medium Risk
+82,128,74,220,False,75,Male,False,False,True,28.5,Senior,Karachi Cardiac Institute,0.1,0,1,Medium Risk
+121,110,74,185,False,74,Female,False,True,True,30.1,Senior,Aga Khan University Hospital,0.0,0,1,Medium Risk
+132,135,74,238,False,66,Male,False,True,False,26.8,Senior,Aga Khan University Hospital,1.1,0,1,Medium Risk
+160,139,74,198,False,69,Female,True,False,False,33.9,Senior,Punjab Institute of Cardiology,0.2,0,1,Medium Risk
+226,115,74,210,False,34,Female,True,False,False,30.2,Young,Punjab Institute of Cardiology,0.0,0,1,Medium Risk
+236,129,74,206,False,53,Male,False,True,True,24.9,Middle,Shaukat Khanum Memorial Hospital,0.1,0,1,Medium Risk
+256,138,74,200,False,49,Female,True,True,True,31.4,Middle,Shaukat Khanum Memorial Hospital,0.4,0,1,Medium Risk
+293,128,74,186,False,37,Male,True,True,True,34.8,Young,Hearts International Hospital,0.1,0,1,Medium Risk
+319,128,74,198,False,32,Male,True,False,True,31.3,Young,Hearts International Hospital,0.0,0,1,Medium Risk
+369,121,74,216,False,68,Male,False,False,False,27.8,Senior,Rawalpindi Institute of Cardiology,0.0,0,1,Medium Risk
+56,116,75,189,False,60,Male,False,False,True,27.8,Middle,National Institute of Cardiovascular Diseases,0.0,0,1,Medium Risk
+125,132,75,194,False,53,Female,False,True,True,31.6,Middle,National Institute of Cardiovascular Diseases,0.1,0,1,Medium Risk
+156,117,75,180,False,74,Female,True,False,True,32.3,Senior,Shaukat Khanum Memorial Hospital,0.0,0,1,Medium Risk
+183,121,75,231,False,31,Male,True,True,False,33.8,Young,Shaukat Khanum Memorial Hospital,0.3,0,1,Medium Risk
+193,112,75,229,False,64,Male,True,False,False,23.8,Senior,Shaukat Khanum Memorial Hospital,0.0,0,1,Medium Risk
+246,134,75,198,False,78,Male,True,True,True,28.3,Senior,Shaukat Khanum Memorial Hospital,0.2,0,1,Medium Risk
+284,138,75,234,False,60,Female,False,False,True,33.4,Middle,Hearts International Hospital,1.1,0,1,Medium Risk
+284,120,75,203,False,60,Female,False,False,True,33.4,Middle,Hearts International Hospital,0.0,0,1,Medium Risk
+419,127,75,188,False,53,Male,True,False,True,20.9,Middle,Faisalabad Institute of Cardiology,0.0,0,1,Medium Risk
+432,121,75,200,False,76,Female,True,True,True,23.5,Senior,Peshawar Heart Center,0.0,0,1,Medium Risk
+10,111,76,187,False,42,Female,True,False,False,20.8,Middle,Karachi Cardiac Institute,0.0,0,1,Medium Risk
+216,131,76,231,False,58,Female,True,False,True,26.2,Middle,Punjab Institute of Cardiology,0.5,0,1,Medium Risk
+248,138,76,239,False,59,Female,False,False,False,29.6,Middle,Shaukat Khanum Memorial Hospital,1.4,0,1,Medium Risk
+328,133,76,198,False,70,Female,False,False,False,19.4,Senior,Pakistan Institute of Medical Sciences,0.0,0,1,Medium Risk
+399,123,76,229,False,41,Female,False,True,True,28.4,Middle,Faisalabad Institute of Cardiology,0.2,0,1,Medium Risk
+15,122,77,207,False,64,Male,True,False,False,20.7,Senior,Aga Khan University Hospital,0.0,0,1,Medium Risk
+73,139,77,218,False,65,Female,False,False,True,18.5,Senior,Karachi Cardiac Institute,0.3,0,1,Medium Risk
+84,128,77,210,False,25,Female,True,False,True,20.7,Young,National Institute of Cardiovascular Diseases,0.1,0,1,Medium Risk
+165,116,77,186,False,59,Male,True,True,True,19.0,Middle,Shaukat Khanum Memorial Hospital,0.0,0,1,Medium Risk
+223,126,77,188,False,68,Female,False,False,True,22.8,Senior,Punjab Institute of Cardiology,0.0,0,1,Medium Risk
+300,125,77,194,False,56,Female,False,True,False,30.6,Middle,Hearts International Hospital,0.1,0,1,Medium Risk
+400,124,77,230,False,65,Male,False,False,False,24.9,Senior,Faisalabad Institute of Cardiology,0.1,0,1,Medium Risk
+402,124,77,236,False,80,Female,True,False,True,29.1,Senior,Faisalabad Institute of Cardiology,0.5,0,1,Medium Risk
+405,139,77,237,False,46,Female,True,True,True,30.7,Middle,Faisalabad Institute of Cardiology,5.6,0,1,Medium Risk
+439,118,77,218,False,58,Male,False,False,True,24.0,Middle,Peshawar Heart Center,0.0,0,1,Medium Risk
+65,132,78,210,False,73,Female,False,True,False,34.5,Senior,National Institute of Cardiovascular Diseases,0.5,0,1,Medium Risk
+97,114,78,199,False,74,Male,True,False,False,25.5,Senior,National Institute of Cardiovascular Diseases,0.0,0,1,Medium Risk
+199,123,78,192,False,70,Female,True,False,True,28.5,Senior,Punjab Institute of Cardiology,0.0,0,1,Medium Risk
+312,128,78,219,False,51,Male,True,False,True,27.2,Middle,Pakistan Institute of Medical Sciences,0.3,0,1,Medium Risk
+340,125,78,228,False,67,Female,False,False,True,29.6,Senior,Hearts International Hospital,0.2,0,1,Medium Risk
+424,116,78,209,False,52,Male,True,False,True,25.5,Middle,Faisalabad Institute of Cardiology,0.0,0,1,Medium Risk
+461,111,78,196,False,65,Male,True,True,True,23.8,Senior,Multan Cardiac Center,0.0,0,1,Medium Risk
+467,131,78,198,False,46,Male,False,True,False,18.5,Middle,Multan Cardiac Center,0.1,0,1,Medium Risk
+490,118,78,228,False,70,Female,True,True,True,22.4,Senior,Multan Cardiac Center,0.2,0,1,Medium Risk
+517,135,78,238,False,67,Female,True,False,True,35.0,Senior,Quetta Cardiac Hospital,3.0,0,1,Medium Risk
+12,128,79,180,False,42,Female,False,True,True,19.4,Middle,Karachi Cardiac Institute,0.0,0,1,Medium Risk
+72,137,79,228,False,80,Female,True,False,True,24.9,Senior,Aga Khan University Hospital,1.6,0,1,Medium Risk
+150,139,79,186,False,71,Female,False,False,True,27.5,Senior,Aga Khan University Hospital,0.1,0,1,Medium Risk
+231,112,79,195,False,26,Female,False,True,True,29.9,Young,Punjab Institute of Cardiology,0.0,0,1,Medium Risk
+365,128,79,218,False,30,Male,False,False,False,29.0,Young,Rawalpindi Institute of Cardiology,0.2,0,1,Medium Risk
+393,115,79,181,False,59,Female,True,False,True,28.1,Middle,Faisalabad Institute of Cardiology,0.0,0,1,Medium Risk
+423,136,79,239,False,55,Female,False,False,True,21.4,Middle,Faisalabad Institute of Cardiology,1.3,0,1,Medium Risk
+440,138,79,194,False,50,Male,True,False,True,20.2,Middle,Peshawar Heart Center,0.2,0,1,Medium Risk
+504,119,79,219,False,55,Male,False,True,False,22.3,Middle,Quetta Cardiac Hospital,0.1,0,1,Medium Risk
+507,111,79,233,False,37,Female,False,True,True,28.7,Young,Quetta Cardiac Hospital,0.1,0,1,Medium Risk
+18,134,80,213,False,79,Female,False,False,True,31.4,Senior,National Institute of Cardiovascular Diseases,0.5,0,1,Medium Risk
+155,115,80,196,False,67,Female,False,True,True,20.3,Senior,Shaukat Khanum Memorial Hospital,0.0,0,1,Medium Risk
+345,111,80,185,False,34,Male,True,False,True,26.8,Young,Rawalpindi Institute of Cardiology,0.0,0,1,Medium Risk
+494,124,80,234,False,75,Male,True,False,True,25.8,Senior,Multan Cardiac Center,0.6,0,1,Medium Risk
+23,126,81,189,False,68,Male,False,False,False,28.5,Senior,National Institute of Cardiovascular Diseases,0.0,0,1,Medium Risk
+29,113,81,198,False,43,Male,False,False,False,28.8,Middle,Aga Khan University Hospital,0.0,0,1,Medium Risk
+54,125,81,214,False,65,Female,False,False,False,24.4,Senior,Karachi Cardiac Institute,0.1,0,1,Medium Risk
+69,137,81,206,False,52,Male,False,True,True,18.7,Middle,National Institute of Cardiovascular Diseases,0.6,0,1,Medium Risk
+71,113,81,197,False,46,Male,False,True,False,20.8,Middle,Karachi Cardiac Institute,0.0,0,1,Medium Risk
+179,117,81,182,False,70,Female,False,False,False,29.9,Senior,Shaukat Khanum Memorial Hospital,0.0,0,1,Medium Risk
+213,126,81,184,False,61,Male,False,False,True,30.1,Senior,Punjab Institute of Cardiology,0.0,0,1,Medium Risk
+376,121,81,220,False,58,Male,True,True,True,25.7,Middle,Rawalpindi Institute of Cardiology,0.4,0,1,Medium Risk
+421,119,81,190,False,70,Male,False,False,False,24.5,Senior,Faisalabad Institute of Cardiology,0.0,0,1,Medium Risk
+479,116,81,232,False,52,Female,True,False,True,20.1,Middle,Multan Cardiac Center,0.2,0,1,Medium Risk
+22,120,82,208,False,47,Female,True,True,False,32.3,Middle,National Institute of Cardiovascular Diseases,0.3,0,1,Medium Risk
+48,116,82,199,False,36,Female,True,False,False,20.2,Young,National Institute of Cardiovascular Diseases,0.0,0,1,Medium Risk
+142,113,82,236,False,79,Female,True,False,False,24.3,Senior,Aga Khan University Hospital,0.2,0,1,Medium Risk
+148,127,82,192,False,36,Male,True,False,True,27.7,Young,Aga Khan University Hospital,0.1,0,1,Medium Risk
+159,136,82,194,False,65,Male,True,False,False,31.7,Senior,Shaukat Khanum Memorial Hospital,0.5,0,1,Medium Risk
+282,138,82,221,False,25,Female,False,True,True,32.5,Young,Hearts International Hospital,3.4,0,1,Medium Risk
+290,127,82,205,False,38,Female,False,True,True,26.1,Young,Hearts International Hospital,0.3,0,1,Medium Risk
+397,137,82,181,False,43,Male,True,False,False,19.0,Middle,Faisalabad Institute of Cardiology,0.1,0,1,Medium Risk
+465,125,82,233,False,39,Male,True,True,False,23.2,Young,Multan Cardiac Center,1.4,0,1,Medium Risk
+500,134,82,217,False,76,Female,False,True,False,28.1,Senior,Quetta Cardiac Hospital,1.5,0,1,Medium Risk
+40,133,83,201,False,80,Female,False,True,False,31.8,Senior,National Institute of Cardiovascular Diseases,0.8,0,1,Medium Risk
+42,133,83,202,False,43,Female,False,False,True,24.8,Middle,National Institute of Cardiovascular Diseases,0.3,0,1,Medium Risk
+105,123,83,233,False,72,Female,False,True,True,26.7,Senior,National Institute of Cardiovascular Diseases,1.2,0,1,Medium Risk
+145,134,83,230,False,32,Male,False,False,False,30.5,Young,Karachi Cardiac Institute,1.9,0,1,Medium Risk
+184,125,83,197,False,74,Female,False,True,False,31.1,Senior,Punjab Institute of Cardiology,0.2,0,1,Medium Risk
+372,129,83,225,False,64,Male,False,False,True,18.8,Senior,Rawalpindi Institute of Cardiology,0.5,0,1,Medium Risk
+433,132,83,183,False,73,Female,True,False,False,27.1,Senior,Peshawar Heart Center,0.1,0,1,Medium Risk
+462,136,83,196,False,72,Male,False,True,False,25.4,Senior,Multan Cardiac Center,0.6,0,1,Medium Risk
+512,121,83,223,False,39,Female,False,False,True,27.8,Young,Quetta Cardiac Hospital,0.2,0,1,Medium Risk
+55,124,84,220,False,42,Female,False,True,True,27.8,Middle,Aga Khan University Hospital,0.7,0,1,Medium Risk
+59,113,84,210,False,30,Male,False,False,False,27.1,Young,Aga Khan University Hospital,0.0,0,1,Medium Risk
+60,119,84,189,False,56,Male,False,True,False,33.9,Middle,Aga Khan University Hospital,0.1,0,1,Medium Risk
+68,123,84,209,False,47,Female,True,False,True,26.7,Middle,National Institute of Cardiovascular Diseases,0.3,0,1,Medium Risk
+79,111,84,234,False,63,Male,False,False,True,29.3,Senior,National Institute of Cardiovascular Diseases,0.2,0,1,Medium Risk
+127,138,84,214,False,64,Female,False,True,True,30.9,Senior,Aga Khan University Hospital,3.4,0,1,Medium Risk
+135,135,84,192,False,40,Male,True,False,False,30.9,Young,Karachi Cardiac Institute,0.5,0,1,Medium Risk
+156,124,84,182,False,74,Female,True,False,True,32.3,Senior,Shaukat Khanum Memorial Hospital,0.1,0,1,Medium Risk
+192,132,84,208,False,64,Female,True,True,True,30.9,Senior,Punjab Institute of Cardiology,1.9,0,1,Medium Risk
+295,125,84,182,False,39,Male,False,False,False,30.4,Young,Pakistan Institute of Medical Sciences,0.0,0,1,Medium Risk
+339,129,84,236,False,25,Male,True,False,False,25.8,Young,Hearts International Hospital,2.2,0,1,Medium Risk
+417,137,84,232,False,70,Male,False,False,True,28.0,Senior,Faisalabad Institute of Cardiology,3.7,0,1,Medium Risk
+443,125,84,191,False,35,Female,False,False,True,29.8,Young,Peshawar Heart Center,0.1,0,1,Medium Risk
+451,137,84,221,False,54,Male,False,False,True,32.8,Middle,Peshawar Heart Center,2.4,0,1,Medium Risk
+487,124,84,189,False,72,Female,True,False,True,29.2,Senior,Multan Cardiac Center,0.1,0,1,Medium Risk
+105,120,85,187,False,72,Female,False,True,True,26.7,Senior,Aga Khan University Hospital,0.1,0,1,Medium Risk
+111,134,85,186,False,41,Female,True,True,False,25.0,Middle,National Institute of Cardiovascular Diseases,0.5,0,1,Medium Risk
+157,110,85,194,False,61,Male,False,True,True,19.1,Senior,Punjab Institute of Cardiology,0.0,0,1,Medium Risk
+357,124,85,220,False,59,Male,True,False,False,26.9,Middle,Rawalpindi Institute of Cardiology,0.7,0,1,Medium Risk
+420,126,85,207,False,64,Male,True,True,False,27.7,Senior,Faisalabad Institute of Cardiology,0.8,0,1,Medium Risk
+438,131,85,216,False,25,Female,True,False,True,19.4,Young,Peshawar Heart Center,0.8,0,1,Medium Risk
+497,128,85,194,False,48,Male,True,False,True,24.0,Middle,Quetta Cardiac Hospital,0.2,0,1,Medium Risk
+1,121,86,203,False,46,Female,True,False,True,22.5,Middle,Karachi Cardiac Institute,0.2,0,1,Medium Risk
+23,125,86,209,False,68,Male,False,False,False,28.5,Senior,Karachi Cardiac Institute,0.3,0,1,Medium Risk
+62,136,86,233,False,48,Male,False,True,True,23.0,Middle,Karachi Cardiac Institute,7.4,0,1,Medium Risk
+123,120,86,195,False,76,Male,True,True,True,18.5,Senior,National Institute of Cardiovascular Diseases,0.2,0,1,Medium Risk
+145,137,86,202,False,32,Male,False,False,False,30.5,Young,Aga Khan University Hospital,1.0,0,1,Medium Risk
+166,136,86,204,False,38,Female,True,True,True,24.7,Young,Punjab Institute of Cardiology,2.5,0,1,Medium Risk
+195,135,86,218,False,44,Male,True,False,False,20.7,Middle,Punjab Institute of Cardiology,1.9,0,1,Medium Risk
+227,112,86,193,False,30,Male,True,True,False,34.4,Young,Shaukat Khanum Memorial Hospital,0.1,0,1,Medium Risk
+271,117,86,198,False,63,Female,True,False,False,23.3,Senior,Punjab Institute of Cardiology,0.1,0,1,Medium Risk
+381,124,86,228,False,62,Male,False,True,False,26.3,Senior,Rawalpindi Institute of Cardiology,1.6,0,1,Medium Risk
+447,111,86,212,False,48,Male,False,False,False,28.3,Middle,Peshawar Heart Center,0.1,0,1,Medium Risk
+462,110,86,204,False,72,Male,False,True,False,25.4,Senior,Multan Cardiac Center,0.1,0,1,Medium Risk
+470,137,86,180,False,45,Female,True,False,False,31.5,Middle,Multan Cardiac Center,0.5,0,1,Medium Risk
+504,135,86,195,False,55,Male,False,True,False,22.3,Middle,Quetta Cardiac Hospital,0.7,0,1,Medium Risk
+229,135,87,191,False,74,Female,False,False,False,33.5,Senior,Shaukat Khanum Memorial Hospital,0.6,0,1,Medium Risk
+260,130,87,208,False,37,Female,False,False,True,21.7,Young,Shaukat Khanum Memorial Hospital,0.5,0,1,Medium Risk
+401,137,87,215,False,34,Male,True,True,True,23.6,Young,Faisalabad Institute of Cardiology,5.8,0,1,Medium Risk
+488,135,87,195,False,50,Male,True,True,False,26.1,Middle,Multan Cardiac Center,1.7,0,1,Medium Risk
+494,120,87,195,False,75,Male,True,False,True,25.8,Senior,Multan Cardiac Center,0.1,0,1,Medium Risk
+3,132,88,230,False,58,Male,False,False,True,24.3,Middle,National Institute of Cardiovascular Diseases,3.2,0,1,Medium Risk
+199,122,88,191,False,70,Female,True,False,True,28.5,Senior,Shaukat Khanum Memorial Hospital,0.2,0,1,Medium Risk
+374,120,88,229,False,39,Female,True,False,False,34.8,Young,Rawalpindi Institute of Cardiology,1.7,0,1,Medium Risk
+408,134,88,216,False,29,Female,True,True,False,19.7,Young,Faisalabad Institute of Cardiology,4.0,0,1,Medium Risk
+431,123,88,193,False,29,Female,False,True,True,32.1,Young,Peshawar Heart Center,0.4,0,1,Medium Risk
+466,133,88,203,False,36,Male,True,False,True,33.7,Young,Multan Cardiac Center,1.9,0,1,Medium Risk
+80,130,89,211,False,62,Female,True,False,False,19.2,Senior,National Institute of Cardiovascular Diseases,1.2,0,1,Medium Risk
+86,117,89,193,False,34,Male,False,False,False,24.5,Young,National Institute of Cardiovascular Diseases,0.1,0,1,Medium Risk
+88,132,89,202,False,75,Male,False,False,True,20.6,Senior,National Institute of Cardiovascular Diseases,0.7,0,1,Medium Risk
+124,138,89,223,False,36,Female,False,False,False,28.6,Young,Aga Khan University Hospital,5.7,0,1,Medium Risk
+162,116,89,232,False,74,Female,False,False,False,24.3,Senior,Shaukat Khanum Memorial Hospital,0.6,0,1,Medium Risk
+228,122,89,219,False,61,Female,False,False,True,32.2,Senior,Shaukat Khanum Memorial Hospital,0.9,0,1,Medium Risk
+281,130,89,196,False,39,Female,False,True,False,30.2,Young,Pakistan Institute of Medical Sciences,1.0,0,1,Medium Risk
+457,118,89,195,False,36,Female,True,True,False,21.6,Young,Peshawar Heart Center,0.2,0,1,Medium Risk
+481,131,89,227,False,41,Female,True,True,False,31.0,Middle,Multan Cardiac Center,10.8,0,1,Medium Risk
+175,159,90,245,True,75,Male,False,True,False,22.1,Senior,Shaukat Khanum Memorial Hospital,84.7,1,0,Low Risk
+288,174,91,288,True,45,Male,False,False,True,30.9,Middle,Hearts International Hospital,99.7,1,2,High Risk
+490,168,91,337,True,70,Female,True,True,True,22.4,Senior,Multan Cardiac Center,100.0,1,0,Low Risk
+505,146,91,327,True,65,Male,True,False,False,32.9,Senior,Quetta Cardiac Hospital,99.5,1,2,High Risk
+172,189,92,288,True,68,Male,False,False,False,30.2,Senior,Punjab Institute of Cardiology,100.0,1,2,High Risk
+184,177,92,302,True,74,Female,False,True,False,31.1,Senior,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+214,185,92,324,True,25,Male,True,False,True,31.5,Young,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+262,144,92,299,True,72,Male,False,True,False,24.0,Senior,Punjab Institute of Cardiology,97.0,1,0,Low Risk
+368,170,92,267,True,34,Male,True,True,True,30.4,Young,Rawalpindi Institute of Cardiology,99.6,1,2,High Risk
+453,183,92,338,True,32,Male,False,True,True,24.2,Young,Peshawar Heart Center,100.0,1,0,Low Risk
+483,147,92,302,True,74,Female,True,True,True,27.0,Senior,Multan Cardiac Center,99.1,1,0,Low Risk
+148,183,93,283,True,36,Male,True,False,True,27.7,Young,Aga Khan University Hospital,99.9,1,2,High Risk
+256,189,93,327,True,49,Female,True,True,True,31.4,Middle,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+302,168,93,261,True,27,Male,True,True,True,23.3,Young,Hearts International Hospital,99.2,1,0,Low Risk
+388,157,93,347,True,77,Female,True,True,False,21.7,Senior,Faisalabad Institute of Cardiology,100.0,1,0,Low Risk
+481,153,93,245,True,41,Female,True,True,False,31.0,Middle,Multan Cardiac Center,91.6,1,2,High Risk
+88,153,94,271,True,75,Male,False,False,True,20.6,Senior,Aga Khan University Hospital,92.7,1,0,Low Risk
+185,157,94,335,True,40,Female,True,False,True,32.0,Young,Punjab Institute of Cardiology,100.0,1,2,High Risk
+354,175,94,341,True,45,Female,False,True,True,31.3,Middle,Rawalpindi Institute of Cardiology,100.0,1,2,High Risk
+366,161,94,257,True,33,Male,True,False,True,32.5,Young,Rawalpindi Institute of Cardiology,97.5,1,2,High Risk
+27,187,95,340,True,48,Female,True,True,True,18.6,Middle,Karachi Cardiac Institute,100.0,1,0,Low Risk
+150,143,95,323,True,71,Female,False,False,True,27.5,Senior,National Institute of Cardiovascular Diseases,99.2,1,2,High Risk
+207,169,95,345,True,30,Male,True,True,True,18.8,Young,Shaukat Khanum Memorial Hospital,100.0,1,0,Low Risk
+390,187,95,340,True,66,Male,True,False,False,26.5,Senior,Faisalabad Institute of Cardiology,100.0,1,0,Low Risk
+474,154,95,281,True,59,Male,True,True,True,22.8,Middle,Multan Cardiac Center,99.1,1,0,Low Risk
+484,178,95,247,True,63,Male,False,False,False,24.9,Senior,Multan Cardiac Center,98.9,1,0,Low Risk
+90,166,96,245,True,77,Female,True,True,False,33.6,Senior,National Institute of Cardiovascular Diseases,99.2,1,2,High Risk
+234,179,96,253,True,67,Female,True,True,True,26.3,Senior,Punjab Institute of Cardiology,99.9,1,0,Low Risk
+81,147,97,315,True,46,Female,True,False,True,26.6,Middle,National Institute of Cardiovascular Diseases,99.6,1,2,High Risk
+120,166,97,242,True,67,Male,True,False,False,27.3,Senior,Aga Khan University Hospital,97.7,1,0,Low Risk
+169,178,97,283,True,32,Male,True,False,True,32.7,Young,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+216,178,97,283,True,58,Female,True,False,True,26.2,Middle,Shaukat Khanum Memorial Hospital,99.9,1,0,Low Risk
+309,159,97,263,True,62,Male,False,True,False,28.6,Senior,Hearts International Hospital,98.8,1,0,Low Risk
+418,178,97,299,True,31,Male,True,True,True,27.3,Young,Faisalabad Institute of Cardiology,100.0,1,2,High Risk
+510,182,97,276,True,44,Male,False,False,False,31.2,Middle,Quetta Cardiac Hospital,99.9,1,2,High Risk
+146,181,98,261,True,65,Male,True,True,True,22.6,Senior,Aga Khan University Hospital,99.9,1,0,Low Risk
+350,175,98,247,True,41,Male,True,False,True,31.3,Middle,Rawalpindi Institute of Cardiology,99.6,1,2,High Risk
+501,163,98,283,True,32,Male,True,True,True,32.7,Young,Quetta Cardiac Hospital,99.9,1,2,High Risk
+20,157,99,345,True,53,Male,True,True,False,34.0,Middle,Karachi Cardiac Institute,100.0,1,2,High Risk
+370,144,99,332,True,34,Female,True,True,False,26.0,Young,Rawalpindi Institute of Cardiology,99.9,1,0,Low Risk
+379,159,99,315,True,42,Male,True,True,True,33.7,Middle,Rawalpindi Institute of Cardiology,100.0,1,2,High Risk
+460,165,99,297,True,78,Female,True,True,False,31.5,Senior,Peshawar Heart Center,100.0,1,2,High Risk
+485,168,99,284,True,42,Female,True,True,True,23.6,Middle,Multan Cardiac Center,99.9,1,0,Low Risk
+515,164,99,245,True,38,Male,True,True,True,26.4,Young,Quetta Cardiac Hospital,99.1,1,0,Low Risk
+28,186,100,278,True,35,Male,True,False,False,20.5,Young,Karachi Cardiac Institute,100.0,1,0,Low Risk
+115,171,100,337,True,39,Male,False,False,True,21.4,Young,National Institute of Cardiovascular Diseases,100.0,1,0,Low Risk
+117,177,100,336,True,61,Male,True,False,False,24.3,Senior,National Institute of Cardiovascular Diseases,100.0,1,0,Low Risk
+126,180,100,345,True,36,Female,False,True,False,32.0,Young,Aga Khan University Hospital,100.0,1,2,High Risk
+201,188,100,323,True,74,Male,True,True,False,29.7,Senior,Shaukat Khanum Memorial Hospital,100.0,1,0,Low Risk
+327,161,100,333,True,62,Female,True,False,True,31.6,Senior,Pakistan Institute of Medical Sciences,100.0,1,2,High Risk
+345,173,100,240,True,34,Male,True,False,True,26.8,Young,Rawalpindi Institute of Cardiology,99.4,1,2,High Risk
+403,165,100,312,True,45,Female,False,True,True,33.6,Middle,Faisalabad Institute of Cardiology,100.0,1,2,High Risk
+5,175,101,320,True,68,Male,True,True,True,27.2,Senior,National Institute of Cardiovascular Diseases,100.0,1,0,Low Risk
+101,163,101,335,True,46,Male,True,True,False,27.7,Middle,Karachi Cardiac Institute,100.0,1,0,Low Risk
+208,185,101,287,True,58,Female,True,True,False,33.4,Middle,Punjab Institute of Cardiology,100.0,1,2,High Risk
+88,165,102,346,True,75,Male,False,False,True,20.6,Senior,Aga Khan University Hospital,100.0,1,0,Low Risk
+99,190,102,267,True,65,Male,False,True,True,32.1,Senior,National Institute of Cardiovascular Diseases,100.0,1,2,High Risk
+132,157,102,303,True,66,Male,False,True,False,26.8,Senior,Aga Khan University Hospital,99.9,1,0,Low Risk
+234,167,102,245,True,67,Female,True,True,True,26.3,Senior,Punjab Institute of Cardiology,99.7,1,0,Low Risk
+323,188,102,246,True,71,Male,True,False,True,30.2,Senior,Pakistan Institute of Medical Sciences,100.0,1,2,High Risk
+446,156,102,258,True,65,Male,True,True,True,31.6,Senior,Peshawar Heart Center,99.6,1,2,High Risk
+466,176,102,330,True,36,Male,True,False,True,33.7,Young,Multan Cardiac Center,100.0,1,2,High Risk
+8,186,103,265,True,41,Male,True,True,False,29.7,Middle,Aga Khan University Hospital,100.0,1,2,High Risk
+17,179,103,349,True,43,Male,True,False,True,24.6,Middle,National Institute of Cardiovascular Diseases,100.0,1,0,Low Risk
+262,181,103,277,True,72,Male,False,True,False,24.0,Senior,Shaukat Khanum Memorial Hospital,100.0,1,0,Low Risk
+368,167,103,325,True,34,Male,True,True,True,30.4,Young,Rawalpindi Institute of Cardiology,100.0,1,2,High Risk
+438,181,103,270,True,25,Female,True,False,True,19.4,Young,Peshawar Heart Center,100.0,1,0,Low Risk
+508,182,103,324,True,61,Male,True,False,False,19.5,Senior,Quetta Cardiac Hospital,100.0,1,0,Low Risk
+1,181,104,245,True,46,Female,True,False,True,22.5,Middle,Aga Khan University Hospital,99.9,1,0,Low Risk
+254,169,104,273,True,74,Male,False,False,False,28.6,Senior,Punjab Institute of Cardiology,99.9,1,2,High Risk
+308,176,104,328,True,43,Female,True,True,False,30.4,Middle,Hearts International Hospital,100.0,1,2,High Risk
+309,159,104,298,True,62,Male,False,True,False,28.6,Senior,Hearts International Hospital,100.0,1,0,Low Risk
+439,170,104,295,True,58,Male,False,False,True,24.0,Middle,Peshawar Heart Center,100.0,1,0,Low Risk
+468,169,104,338,True,34,Female,True,False,False,26.2,Young,Multan Cardiac Center,100.0,1,2,High Risk
+123,161,105,280,True,76,Male,True,True,True,18.5,Senior,Aga Khan University Hospital,99.9,1,0,Low Risk
+213,146,105,340,True,61,Male,False,False,True,30.1,Senior,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+214,181,105,270,True,25,Male,True,False,True,31.5,Young,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+233,141,105,339,True,77,Male,False,True,False,22.5,Senior,Punjab Institute of Cardiology,100.0,1,0,Low Risk
+424,141,105,333,True,52,Male,True,False,True,25.5,Middle,Faisalabad Institute of Cardiology,99.9,1,0,Low Risk
+465,150,105,345,True,39,Male,True,True,False,23.2,Young,Multan Cardiac Center,100.0,1,0,Low Risk
+516,152,105,258,True,36,Male,True,True,False,34.9,Young,Quetta Cardiac Hospital,99.6,1,2,High Risk
+121,186,106,290,True,74,Female,False,True,True,30.1,Senior,National Institute of Cardiovascular Diseases,100.0,1,2,High Risk
+161,187,106,288,True,57,Male,True,False,True,33.0,Middle,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+161,182,106,310,True,57,Male,True,False,True,33.0,Middle,Punjab Institute of Cardiology,100.0,1,2,High Risk
+187,140,106,258,True,31,Male,True,False,True,23.2,Young,Shaukat Khanum Memorial Hospital,95.4,1,0,Low Risk
+277,168,106,347,True,54,Male,False,True,True,30.4,Middle,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+316,147,106,286,True,26,Female,True,True,True,25.9,Young,Pakistan Institute of Medical Sciences,99.8,1,0,Low Risk
+384,163,106,329,True,73,Male,True,True,False,20.0,Senior,Rawalpindi Institute of Cardiology,100.0,1,0,Low Risk
+506,148,106,324,True,50,Male,True,True,False,24.7,Middle,Quetta Cardiac Hospital,100.0,1,0,Low Risk
+22,184,107,250,True,47,Female,True,True,False,32.3,Middle,Karachi Cardiac Institute,100.0,1,2,High Risk
+69,181,107,287,True,52,Male,False,True,True,18.7,Middle,Aga Khan University Hospital,100.0,1,0,Low Risk
+263,156,107,300,True,45,Male,False,True,False,33.7,Middle,Punjab Institute of Cardiology,100.0,1,2,High Risk
+292,166,107,256,True,42,Male,False,True,True,21.4,Middle,Pakistan Institute of Medical Sciences,99.8,1,0,Low Risk
+446,189,107,310,True,65,Male,True,True,True,31.6,Senior,Peshawar Heart Center,100.0,1,2,High Risk
+446,159,107,283,True,65,Male,True,True,True,31.6,Senior,Peshawar Heart Center,100.0,1,2,High Risk
+490,145,107,343,True,70,Female,True,True,True,22.4,Senior,Multan Cardiac Center,100.0,1,0,Low Risk
+98,152,108,342,True,73,Male,False,True,False,28.4,Senior,Aga Khan University Hospital,100.0,1,0,Low Risk
+205,170,108,269,True,35,Male,False,True,True,30.5,Young,Punjab Institute of Cardiology,100.0,1,2,High Risk
+341,188,108,304,True,80,Male,True,False,True,19.2,Senior,Rawalpindi Institute of Cardiology,100.0,1,0,Low Risk
+460,181,108,256,True,78,Female,True,True,False,31.5,Senior,Peshawar Heart Center,100.0,1,2,High Risk
+16,185,109,262,True,74,Male,True,False,False,29.4,Senior,National Institute of Cardiovascular Diseases,100.0,1,2,High Risk
+161,164,109,333,True,57,Male,True,False,True,33.0,Middle,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+265,186,109,319,True,44,Female,True,False,False,33.9,Middle,Punjab Institute of Cardiology,100.0,1,2,High Risk
+368,177,109,348,True,34,Male,True,True,True,30.4,Young,Rawalpindi Institute of Cardiology,100.0,1,2,High Risk
+377,184,109,296,True,43,Female,False,False,True,34.0,Middle,Rawalpindi Institute of Cardiology,100.0,1,2,High Risk
+471,143,109,344,True,26,Male,False,False,False,33.8,Young,Multan Cardiac Center,100.0,1,2,High Risk
+38,160,110,259,True,33,Male,True,False,False,29.4,Young,Aga Khan University Hospital,99.9,1,2,High Risk
+149,156,110,294,True,74,Male,True,False,False,30.1,Senior,Aga Khan University Hospital,100.0,1,2,High Risk
+229,188,110,253,True,74,Female,False,False,False,33.5,Senior,Punjab Institute of Cardiology,100.0,1,2,High Risk
+305,189,110,273,True,68,Male,False,False,True,34.2,Senior,Hearts International Hospital,100.0,1,2,High Risk
+495,155,110,272,True,80,Male,False,False,True,33.6,Senior,Multan Cardiac Center,99.9,1,2,High Risk
+4,183,111,285,True,37,Male,False,False,True,23.2,Young,Aga Khan University Hospital,100.0,1,0,Low Risk
+90,185,111,337,True,77,Female,True,True,False,33.6,Senior,National Institute of Cardiovascular Diseases,100.0,1,2,High Risk
+256,180,111,251,True,49,Female,True,True,True,31.4,Middle,Punjab Institute of Cardiology,100.0,1,2,High Risk
+257,147,111,284,True,48,Male,False,False,False,30.9,Middle,Shaukat Khanum Memorial Hospital,99.8,1,2,High Risk
+323,150,111,292,True,71,Male,True,False,True,30.2,Senior,Pakistan Institute of Medical Sciences,100.0,1,2,High Risk
+341,144,111,348,True,80,Male,True,False,True,19.2,Senior,Rawalpindi Institute of Cardiology,100.0,1,0,Low Risk
+342,178,111,305,True,46,Female,False,True,True,30.2,Middle,Rawalpindi Institute of Cardiology,100.0,1,2,High Risk
+348,146,111,325,True,77,Male,True,True,True,22.3,Senior,Rawalpindi Institute of Cardiology,100.0,1,0,Low Risk
+361,169,111,269,True,62,Female,False,True,False,28.0,Senior,Rawalpindi Institute of Cardiology,100.0,1,0,Low Risk
+495,179,111,323,True,80,Male,False,False,True,33.6,Senior,Multan Cardiac Center,100.0,1,2,High Risk
+499,150,111,350,True,48,Male,False,True,True,30.5,Middle,Quetta Cardiac Hospital,100.0,1,2,High Risk
+26,149,112,276,True,52,Female,True,True,False,25.6,Middle,Aga Khan University Hospital,99.9,1,0,Low Risk
+175,152,112,315,True,75,Male,False,True,False,22.1,Senior,Shaukat Khanum Memorial Hospital,100.0,1,0,Low Risk
+219,164,112,307,True,74,Male,True,True,True,34.8,Senior,Punjab Institute of Cardiology,100.0,1,2,High Risk
+329,150,112,329,True,29,Male,True,True,False,19.9,Young,Pakistan Institute of Medical Sciences,100.0,1,0,Low Risk
+396,178,112,278,True,58,Male,True,False,True,20.0,Middle,Faisalabad Institute of Cardiology,100.0,1,0,Low Risk
+401,173,112,304,True,34,Male,True,True,True,23.6,Young,Faisalabad Institute of Cardiology,100.0,1,0,Low Risk
+426,160,112,333,True,49,Male,True,False,False,33.0,Middle,Peshawar Heart Center,100.0,1,2,High Risk
+493,183,112,318,True,45,Female,False,True,True,32.0,Middle,Multan Cardiac Center,100.0,1,2,High Risk
+499,183,112,345,True,48,Male,False,True,True,30.5,Middle,Quetta Cardiac Hospital,100.0,1,2,High Risk
+510,171,112,344,True,44,Male,False,False,False,31.2,Middle,Quetta Cardiac Hospital,100.0,1,2,High Risk
+515,148,112,273,True,38,Male,True,True,True,26.4,Young,Quetta Cardiac Hospital,99.9,1,0,Low Risk
+193,152,113,317,True,64,Male,True,False,False,23.8,Senior,Shaukat Khanum Memorial Hospital,100.0,1,0,Low Risk
+493,154,113,254,True,45,Female,False,True,True,32.0,Middle,Multan Cardiac Center,99.9,1,2,High Risk
+7,152,114,325,True,61,Male,False,False,True,22.7,Senior,Aga Khan University Hospital,100.0,1,0,Low Risk
+58,143,114,256,True,46,Male,True,False,False,34.5,Middle,National Institute of Cardiovascular Diseases,99.5,1,2,High Risk
+236,147,114,326,True,53,Male,False,True,True,24.9,Middle,Punjab Institute of Cardiology,100.0,1,0,Low Risk
+343,145,114,325,True,35,Female,True,False,False,29.5,Young,Rawalpindi Institute of Cardiology,100.0,1,2,High Risk
+31,140,115,261,True,54,Female,False,True,True,32.6,Middle,Karachi Cardiac Institute,99.7,1,2,High Risk
+63,174,115,278,True,27,Female,True,True,True,32.4,Young,National Institute of Cardiovascular Diseases,100.0,1,2,High Risk
+135,190,115,277,True,40,Male,True,False,False,30.9,Young,National Institute of Cardiovascular Diseases,100.0,1,2,High Risk
+147,175,115,292,True,32,Female,False,True,True,32.4,Young,National Institute of Cardiovascular Diseases,100.0,1,2,High Risk
+273,169,115,258,True,73,Male,False,True,False,24.1,Senior,Punjab Institute of Cardiology,100.0,1,0,Low Risk
+334,163,115,340,True,53,Male,False,True,True,27.7,Middle,Hearts International Hospital,100.0,1,2,High Risk
+402,159,115,291,True,80,Female,True,False,True,29.1,Senior,Faisalabad Institute of Cardiology,100.0,1,2,High Risk
+422,145,115,275,True,80,Male,False,True,True,23.7,Senior,Faisalabad Institute of Cardiology,99.9,1,0,Low Risk
+444,167,115,323,True,66,Male,False,True,True,29.7,Senior,Peshawar Heart Center,100.0,1,2,High Risk
+491,168,115,271,True,62,Male,False,False,False,31.9,Senior,Multan Cardiac Center,100.0,1,2,High Risk
+116,148,116,300,True,57,Male,False,True,False,32.5,Middle,Karachi Cardiac Institute,100.0,1,2,High Risk
+183,161,116,334,True,31,Male,True,True,False,33.8,Young,Punjab Institute of Cardiology,100.0,1,2,High Risk
+240,163,116,250,True,77,Female,False,False,True,34.2,Senior,Punjab Institute of Cardiology,99.9,1,2,High Risk
+325,156,116,276,True,66,Female,True,False,False,20.1,Senior,Hearts International Hospital,100.0,1,0,Low Risk
+345,157,116,252,True,34,Male,True,False,True,26.8,Young,Rawalpindi Institute of Cardiology,99.9,1,2,High Risk
+367,145,116,324,True,73,Male,False,True,False,28.7,Senior,Rawalpindi Institute of Cardiology,100.0,1,0,Low Risk
+420,165,116,299,True,64,Male,True,True,False,27.7,Senior,Faisalabad Institute of Cardiology,100.0,1,0,Low Risk
+31,174,117,331,True,54,Female,False,True,True,32.6,Middle,Karachi Cardiac Institute,100.0,1,2,High Risk
+46,150,117,257,True,36,Male,True,False,False,30.8,Young,Aga Khan University Hospital,99.9,1,2,High Risk
+51,143,117,277,True,66,Male,False,True,False,30.6,Senior,Karachi Cardiac Institute,99.9,1,2,High Risk
+167,156,117,255,True,80,Female,False,True,True,33.2,Senior,Punjab Institute of Cardiology,100.0,1,2,High Risk
+235,166,117,309,True,26,Female,True,True,True,19.8,Young,Punjab Institute of Cardiology,100.0,1,0,Low Risk
+258,176,117,306,True,61,Female,False,True,True,24.1,Senior,Punjab Institute of Cardiology,100.0,1,0,Low Risk
+372,187,117,283,True,64,Male,False,False,True,18.8,Senior,Rawalpindi Institute of Cardiology,100.0,1,0,Low Risk
+394,161,117,304,True,25,Male,False,True,True,34.8,Young,Faisalabad Institute of Cardiology,100.0,1,2,High Risk
+432,190,117,307,True,76,Female,True,True,True,23.5,Senior,Peshawar Heart Center,100.0,1,0,Low Risk
+114,143,118,269,True,36,Female,False,True,True,30.9,Young,Aga Khan University Hospital,99.9,1,2,High Risk
+149,179,118,302,True,74,Male,True,False,False,30.1,Senior,Karachi Cardiac Institute,100.0,1,2,High Risk
+62,152,119,334,True,48,Male,False,True,True,23.0,Middle,Karachi Cardiac Institute,100.0,1,0,Low Risk
+172,170,119,329,True,68,Male,False,False,False,30.2,Senior,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+209,159,119,254,True,75,Male,True,False,True,29.6,Senior,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+384,154,119,293,True,73,Male,True,True,False,20.0,Senior,Rawalpindi Institute of Cardiology,100.0,1,0,Low Risk
+420,154,119,256,True,64,Male,True,True,False,27.7,Senior,Faisalabad Institute of Cardiology,100.0,1,0,Low Risk
+167,176,120,282,True,80,Female,False,True,True,33.2,Senior,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+183,167,120,307,True,31,Male,True,True,False,33.8,Young,Punjab Institute of Cardiology,100.0,1,2,High Risk
+252,173,120,300,True,63,Male,False,True,True,31.1,Senior,Punjab Institute of Cardiology,100.0,1,2,High Risk
+325,154,120,245,True,66,Female,True,False,False,20.1,Senior,Hearts International Hospital,99.9,1,0,Low Risk
+478,185,120,240,True,73,Female,True,False,True,22.2,Senior,Multan Cardiac Center,100.0,1,0,Low Risk
+489,155,120,297,True,42,Female,True,False,True,23.3,Middle,Multan Cardiac Center,100.0,1,0,Low Risk
+16,131,70,186,False,74,Male,True,False,False,29.4,Senior,Aga Khan University Hospital,0.0,0,1,Medium Risk
+63,130,70,203,False,27,Female,True,True,True,32.4,Young,National Institute of Cardiovascular Diseases,0.1,0,1,Medium Risk
+136,127,70,199,False,35,Female,True,False,True,28.9,Young,Karachi Cardiac Institute,0.0,0,1,Medium Risk
+217,125,70,198,False,75,Male,True,True,False,33.0,Senior,Shaukat Khanum Memorial Hospital,0.0,0,1,Medium Risk
+430,110,70,220,False,72,Male,False,True,False,23.0,Senior,Peshawar Heart Center,0.0,0,1,Medium Risk
+477,129,70,210,False,73,Female,False,True,False,33.4,Senior,Multan Cardiac Center,0.1,0,1,Medium Risk
+508,113,70,220,False,61,Male,True,False,False,19.5,Senior,Quetta Cardiac Hospital,0.0,0,1,Medium Risk
+93,127,71,201,False,31,Male,True,True,False,18.7,Young,Aga Khan University Hospital,0.0,0,1,Medium Risk
+143,122,71,205,False,70,Male,False,True,False,25.4,Senior,Aga Khan University Hospital,0.0,0,1,Medium Risk
+301,113,71,181,False,43,Female,True,False,True,23.3,Middle,Pakistan Institute of Medical Sciences,0.0,0,1,Medium Risk
+324,120,71,234,False,30,Male,False,True,True,23.1,Young,Hearts International Hospital,0.1,0,1,Medium Risk
+406,138,71,180,False,38,Male,False,False,True,19.3,Young,Faisalabad Institute of Cardiology,0.0,0,1,Medium Risk
+7,116,72,193,False,61,Male,False,False,True,22.7,Senior,National Institute of Cardiovascular Diseases,0.0,0,1,Medium Risk
+16,120,72,183,False,74,Male,True,False,False,29.4,Senior,National Institute of Cardiovascular Diseases,0.0,0,1,Medium Risk
+47,124,72,209,False,37,Male,False,False,True,23.8,Young,Karachi Cardiac Institute,0.0,0,1,Medium Risk
+230,121,72,239,False,44,Female,True,True,False,22.4,Middle,Punjab Institute of Cardiology,0.2,0,1,Medium Risk
+232,116,72,180,False,61,Female,False,False,True,23.9,Senior,Punjab Institute of Cardiology,0.0,0,1,Medium Risk
+375,129,72,191,False,26,Female,True,True,False,25.8,Young,Rawalpindi Institute of Cardiology,0.0,0,1,Medium Risk
+500,131,72,237,False,76,Female,False,True,False,28.1,Senior,Quetta Cardiac Hospital,0.5,0,1,Medium Risk
+21,113,73,228,False,53,Male,True,False,False,33.6,Middle,Karachi Cardiac Institute,0.0,0,1,Medium Risk
+73,136,73,209,False,65,Female,False,False,True,18.5,Senior,Karachi Cardiac Institute,0.1,0,1,Medium Risk
+204,126,73,182,False,44,Female,False,False,True,24.0,Middle,Shaukat Khanum Memorial Hospital,0.0,0,1,Medium Risk
+270,127,73,217,False,43,Female,True,True,False,21.5,Middle,Punjab Institute of Cardiology,0.1,0,1,Medium Risk
+375,134,73,187,False,26,Female,True,True,False,25.8,Young,Rawalpindi Institute of Cardiology,0.1,0,1,Medium Risk
+435,138,73,182,False,33,Male,True,True,False,25.6,Young,Peshawar Heart Center,0.1,0,1,Medium Risk
+448,112,73,195,False,79,Female,True,False,False,31.9,Senior,Peshawar Heart Center,0.0,0,1,Medium Risk
+454,124,73,237,False,25,Male,False,False,True,22.1,Young,Peshawar Heart Center,0.1,0,1,Medium Risk
+492,112,73,194,False,56,Male,False,False,False,33.9,Middle,Multan Cardiac Center,0.0,0,1,Medium Risk
+507,115,73,205,False,37,Female,False,True,True,28.7,Young,Quetta Cardiac Hospital,0.0,0,1,Medium Risk
+19,115,74,214,False,55,Male,True,True,True,33.2,Middle,Karachi Cardiac Institute,0.1,0,1,Medium Risk
+49,116,74,198,False,41,Male,False,False,False,21.9,Middle,Karachi Cardiac Institute,0.0,0,1,Medium Risk
+119,122,74,201,False,56,Male,False,False,True,27.6,Middle,National Institute of Cardiovascular Diseases,0.0,0,1,Medium Risk
+156,114,74,208,False,74,Female,True,False,True,32.3,Senior,Punjab Institute of Cardiology,0.0,0,1,Medium Risk
+209,132,74,196,False,75,Male,True,False,True,29.6,Senior,Shaukat Khanum Memorial Hospital,0.1,0,1,Medium Risk
+222,124,74,221,False,74,Female,True,False,False,33.7,Senior,Punjab Institute of Cardiology,0.1,0,1,Medium Risk
+245,112,74,223,False,29,Male,False,False,False,28.8,Young,Punjab Institute of Cardiology,0.0,0,1,Medium Risk
+264,124,74,206,False,80,Female,False,False,False,20.3,Senior,Punjab Institute of Cardiology,0.0,0,1,Medium Risk
+268,125,74,180,False,79,Male,True,False,False,19.8,Senior,Shaukat Khanum Memorial Hospital,0.0,0,1,Medium Risk
+358,118,74,207,False,28,Male,False,False,False,29.3,Young,Rawalpindi Institute of Cardiology,0.0,0,1,Medium Risk
+445,124,74,185,False,48,Female,False,False,False,21.8,Middle,Peshawar Heart Center,0.0,0,1,Medium Risk
+502,127,74,238,False,76,Male,True,True,False,18.5,Senior,Quetta Cardiac Hospital,0.4,0,1,Medium Risk
+11,122,75,215,False,27,Female,False,True,False,28.7,Young,National Institute of Cardiovascular Diseases,0.1,0,1,Medium Risk
+107,129,75,205,False,53,Male,True,True,False,24.3,Middle,Aga Khan University Hospital,0.1,0,1,Medium Risk
+163,112,75,199,False,34,Male,False,False,True,33.8,Young,Shaukat Khanum Memorial Hospital,0.0,0,1,Medium Risk
+180,118,75,208,False,34,Female,True,False,True,24.7,Young,Punjab Institute of Cardiology,0.0,0,1,Medium Risk
+259,115,75,210,False,72,Male,True,False,False,26.2,Senior,Punjab Institute of Cardiology,0.0,0,1,Medium Risk
+389,131,75,211,False,57,Female,False,False,False,22.6,Middle,Faisalabad Institute of Cardiology,0.1,0,1,Medium Risk
+428,138,75,215,False,39,Female,True,True,False,27.2,Young,Peshawar Heart Center,0.8,0,1,Medium Risk
+428,133,75,222,False,39,Female,True,True,False,27.2,Young,Peshawar Heart Center,0.6,0,1,Medium Risk
+514,125,75,205,False,59,Male,True,False,True,20.2,Middle,Quetta Cardiac Hospital,0.0,0,1,Medium Risk
+17,112,76,192,False,43,Male,True,False,True,24.6,Middle,Karachi Cardiac Institute,0.0,0,1,Medium Risk
+65,126,76,218,False,73,Female,False,True,False,34.5,Senior,Karachi Cardiac Institute,0.3,0,1,Medium Risk
+66,123,76,205,False,60,Male,True,True,False,28.2,Middle,Aga Khan University Hospital,0.1,0,1,Medium Risk
+107,137,76,200,False,53,Male,True,True,False,24.3,Middle,Aga Khan University Hospital,0.3,0,1,Medium Risk
+107,113,76,223,False,53,Male,True,True,False,24.3,Middle,Aga Khan University Hospital,0.1,0,1,Medium Risk
+114,118,76,223,False,36,Female,False,True,True,30.9,Young,National Institute of Cardiovascular Diseases,0.1,0,1,Medium Risk
+133,128,76,208,False,73,Female,False,False,True,18.8,Senior,Aga Khan University Hospital,0.0,0,1,Medium Risk
+266,139,76,188,False,47,Female,False,True,False,26.1,Middle,Punjab Institute of Cardiology,0.1,0,1,Medium Risk
+270,124,76,236,False,43,Female,True,True,False,21.5,Middle,Punjab Institute of Cardiology,0.4,0,1,Medium Risk
+283,132,76,228,False,58,Female,True,False,False,21.5,Middle,Pakistan Institute of Medical Sciences,0.4,0,1,Medium Risk
+291,127,76,189,False,56,Female,False,True,True,29.0,Middle,Hearts International Hospital,0.0,0,1,Medium Risk
+302,128,76,210,False,27,Male,True,True,True,23.3,Young,Pakistan Institute of Medical Sciences,0.2,0,1,Medium Risk
+446,126,76,216,False,65,Male,True,True,True,31.6,Senior,Peshawar Heart Center,0.3,0,1,Medium Risk
+452,130,76,217,False,28,Female,True,True,False,33.7,Young,Peshawar Heart Center,0.5,0,1,Medium Risk
+484,110,76,234,False,63,Male,False,False,False,24.9,Senior,Multan Cardiac Center,0.0,0,1,Medium Risk
+102,113,77,218,False,74,Female,False,True,False,26.2,Senior,Aga Khan University Hospital,0.0,0,1,Medium Risk
+112,116,77,188,False,71,Male,False,False,False,25.6,Senior,National Institute of Cardiovascular Diseases,0.0,0,1,Medium Risk
+159,122,77,191,False,65,Male,True,False,False,31.7,Senior,Shaukat Khanum Memorial Hospital,0.0,0,1,Medium Risk
+257,111,77,232,False,48,Male,False,False,False,30.9,Middle,Punjab Institute of Cardiology,0.0,0,1,Medium Risk
+295,111,77,218,False,39,Male,False,False,False,30.4,Young,Pakistan Institute of Medical Sciences,0.0,0,1,Medium Risk
+314,137,77,207,False,39,Male,False,False,True,23.4,Young,Hearts International Hospital,0.2,0,1,Medium Risk
+374,118,77,198,False,39,Female,True,False,False,34.8,Young,Rawalpindi Institute of Cardiology,0.0,0,1,Medium Risk
+409,112,77,224,False,63,Male,False,False,False,20.8,Senior,Faisalabad Institute of Cardiology,0.0,0,1,Medium Risk
+458,130,77,214,False,43,Female,True,False,True,33.3,Middle,Peshawar Heart Center,0.3,0,1,Medium Risk
+489,126,77,225,False,42,Female,True,False,True,23.3,Middle,Multan Cardiac Center,0.2,0,1,Medium Risk
+33,114,78,237,False,43,Male,False,True,False,23.1,Middle,Aga Khan University Hospital,0.1,0,1,Medium Risk
+180,130,78,192,False,34,Female,True,False,True,24.7,Young,Punjab Institute of Cardiology,0.1,0,1,Medium Risk
+298,114,78,184,False,74,Female,False,True,False,18.6,Senior,Pakistan Institute of Medical Sciences,0.0,0,1,Medium Risk
+341,111,78,191,False,80,Male,True,False,True,19.2,Senior,Rawalpindi Institute of Cardiology,0.0,0,1,Medium Risk
+45,124,79,224,False,44,Female,False,False,True,29.7,Middle,National Institute of Cardiovascular Diseases,0.2,0,1,Medium Risk
+91,131,79,190,False,35,Male,False,False,True,22.6,Young,Karachi Cardiac Institute,0.0,0,1,Medium Risk
+101,111,79,225,False,46,Male,True,True,False,27.7,Middle,Karachi Cardiac Institute,0.1,0,1,Medium Risk
+115,120,79,235,False,39,Male,False,False,True,21.4,Young,Aga Khan University Hospital,0.1,0,1,Medium Risk
+119,127,79,213,False,56,Male,False,False,True,27.6,Middle,Karachi Cardiac Institute,0.1,0,1,Medium Risk
+168,131,79,217,False,27,Female,False,False,False,21.9,Young,Punjab Institute of Cardiology,0.2,0,1,Medium Risk
+335,136,79,204,False,58,Female,False,True,True,29.5,Middle,Hearts International Hospital,0.5,0,1,Medium Risk
+350,133,79,190,False,41,Male,True,False,True,31.3,Middle,Rawalpindi Institute of Cardiology,0.1,0,1,Medium Risk
+353,138,79,239,False,80,Male,False,False,True,22.0,Senior,Rawalpindi Institute of Cardiology,1.9,0,1,Medium Risk
+371,137,79,192,False,38,Male,False,True,False,32.7,Young,Rawalpindi Institute of Cardiology,0.3,0,1,Medium Risk
+431,135,79,224,False,29,Female,False,True,True,32.1,Young,Peshawar Heart Center,1.6,0,1,Medium Risk
+133,126,80,206,False,73,Female,False,False,True,18.8,Senior,National Institute of Cardiovascular Diseases,0.1,0,1,Medium Risk
+238,115,80,181,False,76,Male,False,True,False,27.3,Senior,Punjab Institute of Cardiology,0.0,0,1,Medium Risk
+246,115,80,195,False,78,Male,True,True,True,28.3,Senior,Shaukat Khanum Memorial Hospital,0.0,0,1,Medium Risk
+310,114,80,219,False,73,Male,False,False,True,34.2,Senior,Hearts International Hospital,0.1,0,1,Medium Risk
+348,113,80,182,False,77,Male,True,True,True,22.3,Senior,Rawalpindi Institute of Cardiology,0.0,0,1,Medium Risk
+106,123,81,220,False,29,Female,True,False,True,28.0,Young,Aga Khan University Hospital,0.3,0,1,Medium Risk
+226,111,81,228,False,34,Female,True,False,False,30.2,Young,Shaukat Khanum Memorial Hospital,0.1,0,1,Medium Risk
+391,120,81,229,False,34,Female,False,True,True,26.5,Young,Faisalabad Institute of Cardiology,0.4,0,1,Medium Risk
+460,131,81,199,False,78,Female,True,True,False,31.5,Senior,Peshawar Heart Center,0.6,0,1,Medium Risk
+470,123,81,226,False,45,Female,True,False,False,31.5,Middle,Multan Cardiac Center,0.5,0,1,Medium Risk
+506,110,81,203,False,50,Male,True,True,False,24.7,Middle,Quetta Cardiac Hospital,0.0,0,1,Medium Risk
+37,136,82,212,False,37,Male,False,True,False,23.4,Young,National Institute of Cardiovascular Diseases,1.0,0,1,Medium Risk
+143,126,82,204,False,70,Male,False,True,False,25.4,Senior,National Institute of Cardiovascular Diseases,0.2,0,1,Medium Risk
+166,137,82,186,False,38,Female,True,True,True,24.7,Young,Punjab Institute of Cardiology,0.5,0,1,Medium Risk
+190,134,82,205,False,48,Female,True,False,True,19.0,Middle,Punjab Institute of Cardiology,0.4,0,1,Medium Risk
+334,133,82,220,False,53,Male,False,True,True,27.7,Middle,Hearts International Hospital,1.5,0,1,Medium Risk
+440,137,82,233,False,50,Male,True,False,True,20.2,Middle,Peshawar Heart Center,2.8,0,1,Medium Risk
+442,124,82,187,False,30,Female,True,True,False,33.4,Young,Peshawar Heart Center,0.1,0,1,Medium Risk
+480,126,82,217,False,68,Female,False,True,False,27.3,Senior,Multan Cardiac Center,0.5,0,1,Medium Risk
+483,126,82,227,False,74,Female,True,True,True,27.0,Senior,Multan Cardiac Center,1.6,0,1,Medium Risk
+487,123,82,188,False,72,Female,True,False,True,29.2,Senior,Multan Cardiac Center,0.1,0,1,Medium Risk
+12,132,83,192,False,42,Female,False,True,True,19.4,Middle,Karachi Cardiac Institute,0.2,0,1,Medium Risk
+43,111,83,227,False,31,Female,True,True,False,34.0,Young,Aga Khan University Hospital,0.4,0,1,Medium Risk
+146,117,83,182,False,65,Male,True,True,True,22.6,Senior,National Institute of Cardiovascular Diseases,0.0,0,1,Medium Risk
+154,111,83,217,False,78,Male,False,True,False,27.1,Senior,Shaukat Khanum Memorial Hospital,0.1,0,1,Medium Risk
+160,112,83,224,False,69,Female,True,False,False,33.9,Senior,Shaukat Khanum Memorial Hospital,0.2,0,1,Medium Risk
+219,124,83,233,False,74,Male,True,True,True,34.8,Senior,Shaukat Khanum Memorial Hospital,3.1,0,1,Medium Risk
+232,137,83,228,False,61,Female,False,False,True,23.9,Senior,Shaukat Khanum Memorial Hospital,2.0,0,1,Medium Risk
+244,130,83,227,False,54,Female,True,False,False,30.3,Middle,Shaukat Khanum Memorial Hospital,1.6,0,1,Medium Risk
+400,122,83,238,False,65,Male,False,False,False,24.9,Senior,Faisalabad Institute of Cardiology,0.6,0,1,Medium Risk
+407,133,83,222,False,51,Male,False,False,True,19.6,Middle,Faisalabad Institute of Cardiology,0.7,0,1,Medium Risk
+416,115,83,210,False,80,Female,True,False,False,20.9,Senior,Faisalabad Institute of Cardiology,0.1,0,1,Medium Risk
+519,125,83,212,False,73,Male,True,True,True,31.3,Senior,Quetta Cardiac Hospital,0.9,0,1,Medium Risk
+9,117,84,194,False,62,Male,True,False,False,30.9,Senior,Karachi Cardiac Institute,0.1,0,1,Medium Risk
+53,113,84,192,False,35,Female,True,True,False,27.0,Young,Aga Khan University Hospital,0.1,0,1,Medium Risk
+253,122,84,231,False,73,Male,False,False,True,29.7,Senior,Shaukat Khanum Memorial Hospital,0.6,0,1,Medium Risk
+272,120,84,237,False,47,Male,False,True,False,29.4,Middle,Shaukat Khanum Memorial Hospital,1.2,0,1,Medium Risk
+286,139,84,206,False,27,Female,False,False,False,19.9,Young,Pakistan Institute of Medical Sciences,0.6,0,1,Medium Risk
+303,118,84,221,False,79,Female,True,True,True,21.3,Senior,Hearts International Hospital,0.5,0,1,Medium Risk
+401,133,84,189,False,34,Male,True,True,True,23.6,Young,Faisalabad Institute of Cardiology,0.5,0,1,Medium Risk
+87,113,85,194,False,40,Female,False,True,True,28.1,Young,National Institute of Cardiovascular Diseases,0.1,0,1,Medium Risk
+120,118,85,198,False,67,Male,True,False,False,27.3,Senior,Karachi Cardiac Institute,0.1,0,1,Medium Risk
+128,135,85,194,False,42,Male,True,True,False,24.0,Middle,Karachi Cardiac Institute,0.9,0,1,Medium Risk
+210,125,85,190,False,48,Male,True,False,False,19.1,Middle,Shaukat Khanum Memorial Hospital,0.1,0,1,Medium Risk
+308,123,85,201,False,43,Female,True,True,False,30.4,Middle,Pakistan Institute of Medical Sciences,0.5,0,1,Medium Risk
+123,123,86,209,False,76,Male,True,True,True,18.5,Senior,National Institute of Cardiovascular Diseases,0.6,0,1,Medium Risk
+158,120,86,229,False,67,Female,True,False,False,31.7,Senior,Shaukat Khanum Memorial Hospital,1.1,0,1,Medium Risk
+289,126,86,198,False,37,Female,False,True,False,29.1,Young,Pakistan Institute of Medical Sciences,0.4,0,1,Medium Risk
+293,139,86,228,False,37,Male,True,True,True,34.8,Young,Hearts International Hospital,19.6,0,1,Medium Risk
+355,117,86,210,False,79,Female,False,False,True,28.1,Senior,Rawalpindi Institute of Cardiology,0.1,0,1,Medium Risk
+372,126,86,218,False,64,Male,False,False,True,18.8,Senior,Rawalpindi Institute of Cardiology,0.4,0,1,Medium Risk
+410,137,86,227,False,60,Male,True,False,False,34.0,Middle,Faisalabad Institute of Cardiology,7.9,0,1,Medium Risk
+494,133,86,197,False,75,Male,True,False,True,25.8,Senior,Multan Cardiac Center,0.7,0,1,Medium Risk
+131,138,87,192,False,78,Male,True,False,True,25.5,Senior,Aga Khan University Hospital,1.1,0,1,Medium Risk
+170,112,87,234,False,65,Female,True,False,True,29.8,Senior,Punjab Institute of Cardiology,0.6,0,1,Medium Risk
+176,112,87,209,False,31,Female,False,True,False,24.6,Young,Punjab Institute of Cardiology,0.1,0,1,Medium Risk
+271,134,87,211,False,63,Female,True,False,False,23.3,Senior,Punjab Institute of Cardiology,1.6,0,1,Medium Risk
+419,131,87,231,False,53,Male,True,False,True,20.9,Middle,Faisalabad Institute of Cardiology,3.3,0,1,Medium Risk
+449,116,87,196,False,47,Male,False,True,False,18.9,Middle,Peshawar Heart Center,0.1,0,1,Medium Risk
+41,115,88,215,False,64,Male,False,False,True,18.7,Senior,Karachi Cardiac Institute,0.1,0,1,Medium Risk
+56,117,88,220,False,60,Male,False,False,True,27.8,Middle,Karachi Cardiac Institute,0.4,0,1,Medium Risk
+60,115,88,198,False,56,Male,False,True,False,33.9,Middle,Karachi Cardiac Institute,0.2,0,1,Medium Risk
+237,126,88,225,False,49,Female,True,True,False,20.2,Middle,Punjab Institute of Cardiology,2.8,0,1,Medium Risk
+299,112,88,201,False,26,Female,False,True,True,24.8,Young,Pakistan Institute of Medical Sciences,0.1,0,1,Medium Risk
+306,119,88,225,False,32,Male,False,False,False,33.6,Young,Pakistan Institute of Medical Sciences,0.7,0,1,Medium Risk
+371,126,88,215,False,38,Male,False,True,False,32.7,Young,Rawalpindi Institute of Cardiology,1.8,0,1,Medium Risk
+414,120,88,184,False,70,Female,False,True,True,27.2,Senior,Faisalabad Institute of Cardiology,0.1,0,1,Medium Risk
+419,135,88,206,False,53,Male,True,False,True,20.9,Middle,Faisalabad Institute of Cardiology,1.6,0,1,Medium Risk
+425,127,88,205,False,50,Male,False,True,False,29.0,Middle,Faisalabad Institute of Cardiology,1.0,0,1,Medium Risk
+60,113,89,180,False,56,Male,False,True,False,33.9,Middle,National Institute of Cardiovascular Diseases,0.1,0,1,Medium Risk
+67,118,89,232,False,48,Female,True,False,True,28.4,Middle,National Institute of Cardiovascular Diseases,1.5,0,1,Medium Risk
+291,130,89,235,False,56,Female,False,True,True,29.0,Middle,Hearts International Hospital,9.6,0,1,Medium Risk
+349,131,89,197,False,69,Male,True,False,False,28.9,Senior,Rawalpindi Institute of Cardiology,1.0,0,1,Medium Risk
+473,139,89,187,False,44,Female,True,False,False,19.0,Middle,Multan Cardiac Center,0.9,0,1,Medium Risk
+121,164,90,270,True,74,Female,False,True,True,30.1,Senior,Aga Khan University Hospital,98.6,1,2,High Risk
+188,155,90,295,True,57,Female,False,True,False,23.7,Middle,Shaukat Khanum Memorial Hospital,98.4,1,0,Low Risk
+274,181,90,315,True,60,Male,False,True,False,29.5,Middle,Punjab Institute of Cardiology,100.0,1,2,High Risk
+307,181,90,344,True,77,Female,True,False,False,33.5,Senior,Hearts International Hospital,100.0,1,2,High Risk
+327,165,90,319,True,62,Female,True,False,True,31.6,Senior,Hearts International Hospital,99.9,1,2,High Risk
+243,140,91,242,True,52,Male,True,True,True,34.4,Middle,Punjab Institute of Cardiology,62.5,1,2,High Risk
+376,150,91,279,True,58,Male,True,True,True,25.7,Middle,Rawalpindi Institute of Cardiology,96.9,1,0,Low Risk
+405,151,91,284,True,46,Female,True,True,True,30.7,Middle,Faisalabad Institute of Cardiology,98.3,1,2,High Risk
+457,180,91,262,True,36,Female,True,True,False,21.6,Young,Peshawar Heart Center,99.7,1,0,Low Risk
+491,154,91,347,True,62,Male,False,False,False,31.9,Senior,Multan Cardiac Center,99.9,1,2,High Risk
+505,174,91,338,True,65,Male,True,False,False,32.9,Senior,Quetta Cardiac Hospital,100.0,1,2,High Risk
+181,150,92,298,True,57,Male,True,True,True,18.6,Middle,Shaukat Khanum Memorial Hospital,98.8,1,0,Low Risk
+302,153,92,259,True,27,Male,True,True,True,23.3,Young,Hearts International Hospital,93.4,1,0,Low Risk
+338,147,92,265,True,50,Male,False,False,True,29.4,Middle,Pakistan Institute of Medical Sciences,81.1,1,2,High Risk
+28,184,93,295,True,35,Male,True,False,False,20.5,Young,Karachi Cardiac Institute,100.0,1,0,Low Risk
+51,144,93,326,True,66,Male,False,True,False,30.6,Senior,Karachi Cardiac Institute,99.6,1,2,High Risk
+209,151,93,332,True,75,Male,True,False,True,29.6,Senior,Shaukat Khanum Memorial Hospital,99.9,1,2,High Risk
+234,158,93,322,True,67,Female,True,True,True,26.3,Senior,Shaukat Khanum Memorial Hospital,99.9,1,0,Low Risk
+353,151,93,344,True,80,Male,False,False,True,22.0,Senior,Rawalpindi Institute of Cardiology,99.8,1,0,Low Risk
+467,167,93,335,True,46,Male,False,True,False,18.5,Middle,Multan Cardiac Center,100.0,1,0,Low Risk
+128,157,94,324,True,42,Male,True,True,False,24.0,Middle,Aga Khan University Hospital,99.9,1,0,Low Risk
+138,166,94,283,True,31,Male,True,False,False,33.1,Young,Karachi Cardiac Institute,99.7,1,2,High Risk
+198,179,94,276,True,67,Male,True,False,False,22.9,Senior,Shaukat Khanum Memorial Hospital,99.9,1,0,Low Risk
+327,147,94,345,True,62,Female,True,False,True,31.6,Senior,Hearts International Hospital,99.9,1,2,High Risk
+465,147,94,277,True,39,Male,True,True,False,23.2,Young,Multan Cardiac Center,96.5,1,0,Low Risk
+491,151,94,326,True,62,Male,False,False,False,31.9,Senior,Multan Cardiac Center,99.7,1,2,High Risk
+46,156,95,342,True,36,Male,True,False,False,30.8,Young,National Institute of Cardiovascular Diseases,100.0,1,2,High Risk
+52,158,95,316,True,41,Male,True,True,True,28.9,Middle,Karachi Cardiac Institute,99.9,1,2,High Risk
+178,181,95,248,True,30,Female,False,True,True,32.4,Young,Shaukat Khanum Memorial Hospital,99.8,1,2,High Risk
+207,164,95,330,True,30,Male,True,True,True,18.8,Young,Punjab Institute of Cardiology,100.0,1,0,Low Risk
+242,182,95,261,True,60,Male,True,False,True,23.6,Middle,Shaukat Khanum Memorial Hospital,99.8,1,0,Low Risk
+317,163,95,314,True,48,Female,True,False,True,18.6,Middle,Hearts International Hospital,99.9,1,0,Low Risk
+351,173,95,308,True,61,Male,False,False,False,32.9,Senior,Rawalpindi Institute of Cardiology,100.0,1,2,High Risk
+355,140,95,348,True,79,Female,False,False,True,28.1,Senior,Rawalpindi Institute of Cardiology,99.8,1,2,High Risk
+366,148,95,275,True,33,Male,True,False,True,32.5,Young,Rawalpindi Institute of Cardiology,96.5,1,2,High Risk
+367,145,95,308,True,73,Male,False,True,False,28.7,Senior,Rawalpindi Institute of Cardiology,99.3,1,0,Low Risk
+373,147,95,273,True,39,Male,True,True,False,28.6,Young,Rawalpindi Institute of Cardiology,97.2,1,2,High Risk
+388,154,95,348,True,77,Female,True,True,False,21.7,Senior,Faisalabad Institute of Cardiology,100.0,1,0,Low Risk
+453,172,95,337,True,32,Male,False,True,True,24.2,Young,Peshawar Heart Center,100.0,1,0,Low Risk
+478,178,95,299,True,73,Female,True,False,True,22.2,Senior,Multan Cardiac Center,100.0,1,0,Low Risk
+95,140,96,319,True,79,Male,False,True,True,23.0,Senior,National Institute of Cardiovascular Diseases,99.3,1,0,Low Risk
+108,170,96,254,True,36,Male,True,True,True,27.2,Young,National Institute of Cardiovascular Diseases,99.6,1,2,High Risk
+323,145,96,253,True,71,Male,True,False,True,30.2,Senior,Pakistan Institute of Medical Sciences,86.6,1,2,High Risk
+333,141,96,311,True,75,Female,False,True,True,26.9,Senior,Pakistan Institute of Medical Sciences,99.2,1,0,Low Risk
+368,188,96,315,True,34,Male,True,True,True,30.4,Young,Rawalpindi Institute of Cardiology,100.0,1,2,High Risk
+379,190,96,252,True,42,Male,True,True,True,33.7,Middle,Rawalpindi Institute of Cardiology,100.0,1,2,High Risk
+51,154,97,350,True,66,Male,False,True,False,30.6,Senior,Aga Khan University Hospital,100.0,1,2,High Risk
+140,183,97,259,True,70,Female,False,True,False,21.3,Senior,Aga Khan University Hospital,99.9,1,0,Low Risk
+318,176,97,302,True,25,Female,False,True,True,20.1,Young,Pakistan Institute of Medical Sciences,100.0,1,0,Low Risk
+401,156,97,244,True,34,Male,True,True,True,23.6,Young,Faisalabad Institute of Cardiology,95.9,1,0,Low Risk
+517,160,97,278,True,67,Female,True,False,True,35.0,Senior,Quetta Cardiac Hospital,99.6,1,2,High Risk
+2,143,98,294,True,25,Female,True,True,False,34.9,Young,Aga Khan University Hospital,99.4,1,2,High Risk
+117,171,98,301,True,61,Male,True,False,False,24.3,Senior,National Institute of Cardiovascular Diseases,100.0,1,0,Low Risk
+208,179,98,323,True,58,Female,True,True,False,33.4,Middle,Punjab Institute of Cardiology,100.0,1,2,High Risk
+304,166,98,308,True,45,Male,False,False,True,24.0,Middle,Pakistan Institute of Medical Sciences,99.9,1,0,Low Risk
+363,183,98,247,True,79,Female,False,False,True,22.0,Senior,Rawalpindi Institute of Cardiology,99.7,1,0,Low Risk
+476,185,98,340,True,58,Female,True,False,False,29.7,Middle,Multan Cardiac Center,100.0,1,2,High Risk
+509,156,98,349,True,31,Female,True,False,True,26.5,Young,Quetta Cardiac Hospital,100.0,1,2,High Risk
+5,176,99,336,True,68,Male,True,True,True,27.2,Senior,Aga Khan University Hospital,100.0,1,0,Low Risk
+225,153,99,297,True,66,Male,True,True,False,21.8,Senior,Punjab Institute of Cardiology,99.8,1,0,Low Risk
+371,179,99,323,True,38,Male,False,True,False,32.7,Young,Rawalpindi Institute of Cardiology,100.0,1,2,High Risk
+422,151,99,254,True,80,Male,False,True,True,23.7,Senior,Faisalabad Institute of Cardiology,95.9,1,0,Low Risk
+429,167,99,341,True,50,Female,True,True,False,27.4,Middle,Peshawar Heart Center,100.0,1,0,Low Risk
+459,176,99,260,True,25,Male,True,False,False,28.4,Young,Peshawar Heart Center,99.8,1,2,High Risk
+464,169,99,324,True,33,Male,True,False,False,33.2,Young,Multan Cardiac Center,100.0,1,2,High Risk
+496,172,99,271,True,68,Male,True,False,False,31.1,Senior,Quetta Cardiac Hospital,99.9,1,2,High Risk
+70,160,100,323,True,27,Male,False,False,True,26.0,Young,Aga Khan University Hospital,100.0,1,2,High Risk
+95,176,100,343,True,79,Male,False,True,True,23.0,Senior,Aga Khan University Hospital,100.0,1,0,Low Risk
+139,141,100,244,True,64,Male,True,False,False,25.9,Senior,National Institute of Cardiovascular Diseases,79.1,1,1,Medium Risk
+192,182,100,327,True,64,Female,True,True,True,30.9,Senior,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+426,189,100,258,True,49,Male,True,False,False,33.0,Middle,Peshawar Heart Center,100.0,1,2,High Risk
+462,147,100,285,True,72,Male,False,True,False,25.4,Senior,Multan Cardiac Center,99.1,1,0,Low Risk
+125,166,101,258,True,53,Female,False,True,True,31.6,Middle,National Institute of Cardiovascular Diseases,99.7,1,2,High Risk
+159,164,101,315,True,65,Male,True,False,False,31.7,Senior,Punjab Institute of Cardiology,100.0,1,2,High Risk
+194,186,101,287,True,57,Female,True,False,False,30.4,Middle,Punjab Institute of Cardiology,100.0,1,2,High Risk
+293,165,101,266,True,37,Male,True,True,True,34.8,Young,Pakistan Institute of Medical Sciences,99.9,1,2,High Risk
+346,157,101,257,True,31,Male,True,True,True,21.1,Young,Rawalpindi Institute of Cardiology,99.1,1,0,Low Risk
+515,163,101,244,True,38,Male,True,True,True,26.4,Young,Quetta Cardiac Hospital,99.3,1,0,Low Risk
+122,156,102,290,True,54,Male,True,True,True,29.8,Middle,Aga Khan University Hospital,99.9,1,2,High Risk
+125,178,102,328,True,53,Female,False,True,True,31.6,Middle,National Institute of Cardiovascular Diseases,100.0,1,2,High Risk
+157,185,102,265,True,61,Male,False,True,True,19.1,Senior,Shaukat Khanum Memorial Hospital,100.0,1,0,Low Risk
+170,154,102,313,True,65,Female,True,False,True,29.8,Senior,Shaukat Khanum Memorial Hospital,99.9,1,2,High Risk
+185,142,102,346,True,40,Female,True,False,True,32.0,Young,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+403,154,102,268,True,45,Female,False,True,True,33.6,Middle,Faisalabad Institute of Cardiology,99.5,1,2,High Risk
+413,177,102,339,True,37,Female,True,False,True,33.3,Young,Faisalabad Institute of Cardiology,100.0,1,2,High Risk
+104,144,103,264,True,70,Male,False,True,True,33.7,Senior,National Institute of Cardiovascular Diseases,98.4,1,2,High Risk
+222,179,103,332,True,74,Female,True,False,False,33.7,Senior,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+246,178,103,283,True,78,Male,True,True,True,28.3,Senior,Shaukat Khanum Memorial Hospital,100.0,1,0,Low Risk
+249,151,103,293,True,65,Male,False,True,True,25.0,Senior,Shaukat Khanum Memorial Hospital,99.8,1,0,Low Risk
+253,156,103,273,True,73,Male,False,False,True,29.7,Senior,Shaukat Khanum Memorial Hospital,99.5,1,2,High Risk
+394,152,103,264,True,25,Male,False,True,True,34.8,Young,Faisalabad Institute of Cardiology,99.4,1,2,High Risk
+455,183,103,271,True,32,Male,True,True,True,28.7,Young,Peshawar Heart Center,100.0,1,2,High Risk
+509,188,103,293,True,31,Female,True,False,True,26.5,Young,Quetta Cardiac Hospital,100.0,1,2,High Risk
+182,164,104,309,True,72,Male,False,True,True,26.9,Senior,Shaukat Khanum Memorial Hospital,100.0,1,0,Low Risk
+269,142,104,325,True,74,Female,False,True,True,28.9,Senior,Shaukat Khanum Memorial Hospital,99.9,1,0,Low Risk
+275,168,104,282,True,52,Male,True,False,True,24.3,Middle,Shaukat Khanum Memorial Hospital,99.9,1,0,Low Risk
+307,189,104,278,True,77,Female,True,False,False,33.5,Senior,Hearts International Hospital,100.0,1,2,High Risk
+398,143,104,314,True,58,Female,False,True,False,33.4,Middle,Faisalabad Institute of Cardiology,99.9,1,2,High Risk
+30,158,105,270,True,69,Female,True,True,False,26.1,Senior,National Institute of Cardiovascular Diseases,99.9,1,0,Low Risk
+137,178,105,330,True,47,Female,True,False,False,26.0,Middle,Aga Khan University Hospital,100.0,1,0,Low Risk
+154,174,105,314,True,78,Male,False,True,False,27.1,Senior,Punjab Institute of Cardiology,100.0,1,0,Low Risk
+292,165,105,274,True,42,Male,False,True,True,21.4,Middle,Hearts International Hospital,99.9,1,0,Low Risk
+348,165,105,256,True,77,Male,True,True,True,22.3,Senior,Rawalpindi Institute of Cardiology,99.9,1,0,Low Risk
+425,178,105,314,True,50,Male,False,True,False,29.0,Middle,Faisalabad Institute of Cardiology,100.0,1,2,High Risk
+44,179,106,308,True,36,Male,False,True,True,22.1,Young,Aga Khan University Hospital,100.0,1,0,Low Risk
+103,144,106,291,True,44,Male,False,False,False,24.1,Middle,Aga Khan University Hospital,99.3,1,0,Low Risk
+241,155,106,271,True,62,Female,True,False,False,21.8,Senior,Punjab Institute of Cardiology,99.6,1,0,Low Risk
+249,176,106,310,True,65,Male,False,True,True,25.0,Senior,Punjab Institute of Cardiology,100.0,1,0,Low Risk
+352,179,106,315,True,36,Female,True,True,False,33.8,Young,Rawalpindi Institute of Cardiology,100.0,1,2,High Risk
+385,180,106,350,True,78,Male,False,False,False,31.2,Senior,Rawalpindi Institute of Cardiology,100.0,1,2,High Risk
+321,175,107,290,True,44,Male,True,False,True,23.0,Middle,Pakistan Institute of Medical Sciences,100.0,1,0,Low Risk
+364,152,107,328,True,25,Male,True,True,False,25.0,Young,Rawalpindi Institute of Cardiology,100.0,1,0,Low Risk
+511,179,107,293,True,26,Male,False,True,True,25.9,Young,Quetta Cardiac Hospital,100.0,1,2,High Risk
+251,180,108,264,True,64,Female,True,False,True,32.0,Senior,Punjab Institute of Cardiology,100.0,1,2,High Risk
+285,149,108,320,True,62,Male,False,False,True,30.9,Senior,Pakistan Institute of Medical Sciences,100.0,1,2,High Risk
+332,177,108,312,True,78,Male,False,True,False,22.6,Senior,Hearts International Hospital,100.0,1,0,Low Risk
+432,149,108,263,True,76,Female,True,True,True,23.5,Senior,Peshawar Heart Center,99.6,1,0,Low Risk
+469,188,108,321,True,42,Male,True,True,False,29.9,Middle,Multan Cardiac Center,100.0,1,2,High Risk
+273,167,109,261,True,73,Male,False,True,False,24.1,Senior,Shaukat Khanum Memorial Hospital,99.9,1,0,Low Risk
+191,150,110,304,True,45,Male,False,False,True,31.9,Middle,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+225,149,110,245,True,66,Male,True,True,False,21.8,Senior,Shaukat Khanum Memorial Hospital,99.2,1,0,Low Risk
+329,177,110,263,True,29,Male,True,True,False,19.9,Young,Hearts International Hospital,100.0,1,0,Low Risk
+488,182,110,341,True,50,Male,True,True,False,26.1,Middle,Multan Cardiac Center,100.0,1,0,Low Risk
+30,169,111,316,True,69,Female,True,True,False,26.1,Senior,Karachi Cardiac Institute,100.0,1,0,Low Risk
+79,147,111,342,True,63,Male,False,False,True,29.3,Senior,National Institute of Cardiovascular Diseases,100.0,1,2,High Risk
+90,156,111,319,True,77,Female,True,True,False,33.6,Senior,National Institute of Cardiovascular Diseases,100.0,1,2,High Risk
+170,148,111,347,True,65,Female,True,False,True,29.8,Senior,Punjab Institute of Cardiology,100.0,1,2,High Risk
+205,162,111,340,True,35,Male,False,True,True,30.5,Young,Punjab Institute of Cardiology,100.0,1,2,High Risk
+379,176,111,264,True,42,Male,True,True,True,33.7,Middle,Rawalpindi Institute of Cardiology,100.0,1,2,High Risk
+101,182,112,293,True,46,Male,True,True,False,27.7,Middle,Aga Khan University Hospital,100.0,1,0,Low Risk
+139,173,112,298,True,64,Male,True,False,False,25.9,Senior,Karachi Cardiac Institute,100.0,1,0,Low Risk
+157,161,112,247,True,61,Male,False,True,True,19.1,Senior,Shaukat Khanum Memorial Hospital,99.8,1,0,Low Risk
+167,148,112,324,True,80,Female,False,True,True,33.2,Senior,Punjab Institute of Cardiology,100.0,1,2,High Risk
+410,169,112,246,True,60,Male,True,False,False,34.0,Middle,Faisalabad Institute of Cardiology,99.9,1,2,High Risk
+441,144,112,253,True,70,Female,True,True,True,18.9,Senior,Peshawar Heart Center,99.3,1,0,Low Risk
+505,162,112,295,True,65,Male,True,False,False,32.9,Senior,Quetta Cardiac Hospital,100.0,1,2,High Risk
+519,144,112,283,True,73,Male,True,True,True,31.3,Senior,Quetta Cardiac Hospital,99.9,1,2,High Risk
+76,190,113,325,True,28,Female,False,True,False,25.3,Young,Karachi Cardiac Institute,100.0,1,0,Low Risk
+163,145,113,329,True,34,Male,False,False,True,33.8,Young,Punjab Institute of Cardiology,100.0,1,2,High Risk
+203,183,113,247,True,36,Male,True,False,True,29.2,Young,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+388,183,113,292,True,77,Female,True,True,False,21.7,Senior,Faisalabad Institute of Cardiology,100.0,1,0,Low Risk
+17,155,114,265,True,43,Male,True,False,True,24.6,Middle,Aga Khan University Hospital,99.9,1,0,Low Risk
+102,185,114,270,True,74,Female,False,True,False,26.2,Senior,Aga Khan University Hospital,100.0,1,0,Low Risk
+251,178,114,308,True,64,Female,True,False,True,32.0,Senior,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+351,168,114,251,True,61,Male,False,False,False,32.9,Senior,Rawalpindi Institute of Cardiology,100.0,1,2,High Risk
+381,152,114,271,True,62,Male,False,True,False,26.3,Senior,Rawalpindi Institute of Cardiology,99.9,1,0,Low Risk
+466,167,114,249,True,36,Male,True,False,True,33.7,Young,Multan Cardiac Center,100.0,1,2,High Risk
+252,163,115,318,True,63,Male,False,True,True,31.1,Senior,Punjab Institute of Cardiology,100.0,1,2,High Risk
+370,183,115,314,True,34,Female,True,True,False,26.0,Young,Rawalpindi Institute of Cardiology,100.0,1,0,Low Risk
+418,142,115,332,True,31,Male,True,True,True,27.3,Young,Faisalabad Institute of Cardiology,100.0,1,2,High Risk
+422,190,115,307,True,80,Male,False,True,True,23.7,Senior,Faisalabad Institute of Cardiology,100.0,1,0,Low Risk
+474,162,115,295,True,59,Male,True,True,True,22.8,Middle,Multan Cardiac Center,100.0,1,0,Low Risk
+303,163,116,298,True,79,Female,True,True,True,21.3,Senior,Pakistan Institute of Medical Sciences,100.0,1,0,Low Risk
+446,177,116,290,True,65,Male,True,True,True,31.6,Senior,Peshawar Heart Center,100.0,1,2,High Risk
+477,185,116,248,True,73,Female,False,True,False,33.4,Senior,Multan Cardiac Center,100.0,1,2,High Risk
+95,151,117,282,True,79,Male,False,True,True,23.0,Senior,National Institute of Cardiovascular Diseases,100.0,1,0,Low Risk
+143,156,117,274,True,70,Male,False,True,False,25.4,Senior,National Institute of Cardiovascular Diseases,100.0,1,0,Low Risk
+182,171,117,313,True,72,Male,False,True,True,26.9,Senior,Shaukat Khanum Memorial Hospital,100.0,1,0,Low Risk
+20,143,118,266,True,53,Male,True,True,False,34.0,Middle,Karachi Cardiac Institute,99.9,1,2,High Risk
+144,181,118,276,True,41,Female,False,True,True,30.9,Middle,National Institute of Cardiovascular Diseases,100.0,1,2,High Risk
+235,143,118,243,True,26,Female,True,True,True,19.8,Young,Shaukat Khanum Memorial Hospital,99.5,1,0,Low Risk
+293,187,118,270,True,37,Male,True,True,True,34.8,Young,Hearts International Hospital,100.0,1,2,High Risk
+452,160,118,321,True,28,Female,True,True,False,33.7,Young,Peshawar Heart Center,100.0,1,2,High Risk
+19,169,119,260,True,55,Male,True,True,True,33.2,Middle,National Institute of Cardiovascular Diseases,100.0,1,2,High Risk
+99,169,119,248,True,65,Male,False,True,True,32.1,Senior,Karachi Cardiac Institute,100.0,1,2,High Risk
+132,158,119,335,True,66,Male,False,True,False,26.8,Senior,National Institute of Cardiovascular Diseases,100.0,1,0,Low Risk
+256,143,119,261,True,49,Female,True,True,True,31.4,Middle,Punjab Institute of Cardiology,99.9,1,2,High Risk
+305,172,119,349,True,68,Male,False,False,True,34.2,Senior,Hearts International Hospital,100.0,1,2,High Risk
+408,176,119,291,True,29,Female,True,True,False,19.7,Young,Faisalabad Institute of Cardiology,100.0,1,0,Low Risk
+130,159,120,318,True,46,Male,True,True,False,24.7,Middle,Aga Khan University Hospital,100.0,1,0,Low Risk
+141,155,120,282,True,30,Female,True,True,True,18.6,Young,Karachi Cardiac Institute,100.0,1,0,Low Risk
+199,150,120,269,True,70,Female,True,False,True,28.5,Senior,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+251,177,120,267,True,64,Female,True,False,True,32.0,Senior,Shaukat Khanum Memorial Hospital,100.0,1,2,High Risk
+277,149,120,317,True,54,Male,False,True,True,30.4,Middle,Punjab Institute of Cardiology,100.0,1,2,High Risk
+346,179,120,247,True,31,Male,True,True,True,21.1,Young,Rawalpindi Institute of Cardiology,100.0,1,0,Low Risk
+359,144,120,256,True,49,Male,True,True,True,23.5,Middle,Rawalpindi Institute of Cardiology,99.9,1,0,Low Risk
+359,160,120,348,True,49,Male,True,True,True,23.5,Middle,Rawalpindi Institute of Cardiology,100.0,1,0,Low Risk

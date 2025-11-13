@@ -1,0 +1,4 @@
+icd_code,disease_name,risk_factors,diagnostic_criteria,treatment_guideline,mortality_rate,avg_treatment_cost
+I21,Acute Myocardial Infarction,"Smoking, Hypertension, Diabetes, High Cholesterol","ECG changes, Elevated cardiac enzymes, Chest pain","Aspirin, PCI, Thrombolytics, Beta-blockers",15.2,450000
+I25,Chronic Ischemic Heart Disease,"Atherosclerosis, Family history, Age, Obesity","Angina, Stress test positive, Coronary angiography","Statins, Antiplatelets, Revascularization",8.7,280000
+I50,Heart Failure,"Previous MI, Hypertension, Diabetes, Cardiomyopathy","Echocardiogram, BNP levels, Symptoms of failure","ACE inhibitors, Diuretics, Beta-blockers, Device therapy",22.5,320000
